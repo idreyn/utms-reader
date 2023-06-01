@@ -1,0 +1,12 @@
+.chapterQuickNav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.previous {
+    margin-right: auto;
+}
+
+.next {
+    margin-left: auto;
+}
