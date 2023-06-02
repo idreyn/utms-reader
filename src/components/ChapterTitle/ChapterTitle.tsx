@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 import { Chapter } from "@/types";
 import { chapterUrl } from "@/utils";
@@ -59,7 +60,7 @@ export const ChapterTitle = (props: Props) => {
     const { chapter, link = false } = props;
     const title = renderTitleString(props);
     if (link) {
-        return <a href={chapterUrl(chapter)}>{title}</a>;
+        return <Link href={chapterUrl(chapter)}>{title}</Link>;
     }
     return <span>{title}</span>;
 };

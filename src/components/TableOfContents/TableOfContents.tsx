@@ -8,20 +8,14 @@ import styles from "./TableOfContents.module.css";
 
 type Props = {
     manuscript: Manuscript;
+    teaser?: React.ReactNode;
 };
 
 export const TableOfContents = (props: Props) => {
-    const { manuscript } = props;
+    const { manuscript, teaser = null } = props;
 
     const renderChapter = (chapter: Chapter) => {
-        return (
-            <ChapterTitle
-                chapter={chapter}
-                showNumber={false}
-                link={true}
-                digits={2}
-            />
-        );
+        return <ChapterTitle chapter={chapter} link={true} digits={2} />;
     };
 
     const renderPart = (part: Part) => {
@@ -41,14 +35,19 @@ export const TableOfContents = (props: Props) => {
 
     const renderBody = () => {
         return (
-            <ul className={styles.list}>
-                {manuscript.children.map((child, index) => {
-                    if (child.kind === "part") {
-                        return <li key={index}>{renderPart(child)}</li>;
-                    }
-                    return <li key={index}>{renderChapter(child)}</li>;
-                })}
-            </ul>
+            <>
+                <ul className={styles.list}>
+                    {manuscript.children.map((child, index) => {
+                        if (child.kind === "part") {
+                            return <li key={index}>{renderPart(child)}</li>;
+                        }
+                        return <li key={index}>{renderChapter(child)}</li>;
+                    })}
+                </ul>
+                {teaser && (
+                    <section className={styles.section}>{teaser}</section>
+                )}
+            </>
         );
     };
 

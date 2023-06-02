@@ -1,0 +1,16 @@
+.globalHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 0px;
+    border-bottom: 2px dotted currentColor;
+}
+
+.title {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.title a {
+    color: currentColor !important;
+}

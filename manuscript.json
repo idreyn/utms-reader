@@ -12,7 +12,7 @@
             "number": 1,
             "children": [
                 {
-                    "src": "manuscript/1 Neikonaut/01 Neikonaut",
+                    "src": "manuscript/1 Neikonaut/1 Neikonaut",
                     "kind": "chapter",
                     "title": "Neikonaut",
                     "slug": "neikonaut",
@@ -20,11 +20,11 @@
                     "number": 1,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/01 Neikonaut/1 Introduction.html",
+                            "src": "manuscript/1 Neikonaut/1 Neikonaut/1 Introduction.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 1, 2022 at 12:50 PM",
-                                "Modified": "May 26, 2023 at 12:27 PM",
+                                "Modified": "June 2, 2023 at 1:38 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -32,11 +32,11 @@
                             "title": "Introduction"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/01 Neikonaut/2 Meeting Mbetethi.html",
+                            "src": "manuscript/1 Neikonaut/1 Neikonaut/2 Meeting Mbetethi.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 26, 2023 at 12:25 PM",
-                                "Modified": "May 30, 2023 at 5:20 PM",
+                                "Modified": "June 2, 2023 at 3:07 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -44,7 +44,7 @@
                             "title": "Meeting Mbetethi"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/01 Neikonaut/3 Tiling in.html",
+                            "src": "manuscript/1 Neikonaut/1 Neikonaut/3 Tiling in.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 29, 2023 at 2:18 PM",
@@ -58,7 +58,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/02 This is Loop-Lock",
+                    "src": "manuscript/1 Neikonaut/2 This is Loop-Lock",
                     "kind": "chapter",
                     "title": "This is Loop-Lock",
                     "slug": "this-is-loop-lock",
@@ -66,11 +66,11 @@
                     "number": 2,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/02 This is Loop-Lock/1 Bumping around in there.html",
+                            "src": "manuscript/1 Neikonaut/2 This is Loop-Lock/1 Bumping around in there.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "January 15, 2023 at 10:48 AM",
-                                "Modified": "June 1, 2023 at 10:56 PM",
+                                "Modified": "June 2, 2023 at 3:01 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -80,7 +80,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/03 Inversion",
+                    "src": "manuscript/1 Neikonaut/3 Inversion",
                     "kind": "chapter",
                     "title": "Inversion",
                     "slug": "inversion",
@@ -88,11 +88,11 @@
                     "number": 3,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/03 Inversion/1 Destroying the debris.html",
+                            "src": "manuscript/1 Neikonaut/3 Inversion/1 Destroying the debris.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "June 1, 2023 at 10:40 PM",
-                                "Modified": "June 1, 2023 at 10:56 PM",
+                                "Modified": "June 2, 2023 at 3:11 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -100,7 +100,7 @@
                             "title": "Destroying the debris"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/03 Inversion/2 Tiling out.html",
+                            "src": "manuscript/1 Neikonaut/3 Inversion/2 Tiling out.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 29, 2023 at 3:01 PM",
@@ -114,7 +114,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/04 In the Hall of Eggs",
+                    "src": "manuscript/1 Neikonaut/4 In the Hall of Eggs",
                     "kind": "chapter",
                     "title": "In the Hall of Eggs",
                     "slug": "in-the-hall-of-eggs",
@@ -122,11 +122,11 @@
                     "number": 4,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/04 In the Hall of Eggs/1 In the Hall of Eggs.html",
+                            "src": "manuscript/1 Neikonaut/4 In the Hall of Eggs/1 In the Hall of Eggs.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 20, 2023 at 1:36 PM",
-                                "Modified": "May 29, 2023 at 9:42 PM",
+                                "Modified": "June 2, 2023 at 5:56 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -136,7 +136,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/05 Decline to Say",
+                    "src": "manuscript/1 Neikonaut/5 Decline to Say",
                     "kind": "chapter",
                     "title": "Decline to Say",
                     "slug": "decline-to-say",
@@ -144,7 +144,7 @@
                     "number": 5,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/05 Decline to Say/1 It's proprietary.html",
+                            "src": "manuscript/1 Neikonaut/5 Decline to Say/1 It's proprietary.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 21, 2023 at 2:53 PM",
@@ -156,7 +156,7 @@
                             "title": "It's proprietary"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/05 Decline to Say/2 Introducing Rui.html",
+                            "src": "manuscript/1 Neikonaut/5 Decline to Say/2 Introducing Rui.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 29, 2023 at 2:10 PM",
@@ -168,7 +168,7 @@
                             "title": "Introducing Rui"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/05 Decline to Say/3 Case studies.html",
+                            "src": "manuscript/1 Neikonaut/5 Decline to Say/3 Case studies.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 29, 2023 at 2:12 PM",
@@ -182,7 +182,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/06 The Ziplock Queen of Floor Zero",
+                    "src": "manuscript/1 Neikonaut/6 The Ziplock Queen of Floor Zero",
                     "kind": "chapter",
                     "title": "The Ziplock Queen of Floor Zero",
                     "slug": "the-ziplock-queen-of-floor-zero",
@@ -190,11 +190,11 @@
                     "number": 6,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/06 The Ziplock Queen of Floor Zero/1 Deng on rounds.html",
+                            "src": "manuscript/1 Neikonaut/6 The Ziplock Queen of Floor Zero/1 Deng on rounds.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 29, 2023 at 2:38 PM",
-                                "Modified": "June 1, 2023 at 1:38 PM",
+                                "Modified": "June 1, 2023 at 11:28 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -202,7 +202,7 @@
                             "title": "Deng on rounds"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/06 The Ziplock Queen of Floor Zero/2 Familiar shapes.html",
+                            "src": "manuscript/1 Neikonaut/6 The Ziplock Queen of Floor Zero/2 Familiar shapes.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 22, 2023 at 3:01 PM",
@@ -214,9 +214,18 @@
                             "title": "Familiar shapes"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "src": "manuscript/2 Ripplechaser",
+            "kind": "part",
+            "title": "Ripplechaser",
+            "metadata": {},
+            "number": 2,
+            "children": [
                 {
-                    "src": "manuscript/1 Neikonaut/07 The Mirror Sea",
+                    "src": "manuscript/2 Ripplechaser/1 The Mirror Sea",
                     "kind": "chapter",
                     "title": "The Mirror Sea",
                     "slug": "the-mirror-sea",
@@ -224,11 +233,11 @@
                     "number": 7,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/07 The Mirror Sea/1 Not thinking about it.html",
+                            "src": "manuscript/2 Ripplechaser/1 The Mirror Sea/1 Not thinking about it.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 27, 2023 at 1:06 PM",
-                                "Modified": "May 31, 2023 at 11:07 AM",
+                                "Modified": "June 1, 2023 at 11:33 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -236,7 +245,7 @@
                             "title": "Not thinking about it"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/07 The Mirror Sea/2 Deng won't help.html",
+                            "src": "manuscript/2 Ripplechaser/1 The Mirror Sea/2 Deng won't help.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 24, 2023 at 5:51 PM",
@@ -248,7 +257,7 @@
                             "title": "Deng won't help"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/07 The Mirror Sea/3 Still not thinking about it.html",
+                            "src": "manuscript/2 Ripplechaser/1 The Mirror Sea/3 Still not thinking about it.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 27, 2023 at 5:26 PM",
@@ -262,7 +271,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/08 What Goes",
+                    "src": "manuscript/2 Ripplechaser/2 What Goes",
                     "kind": "chapter",
                     "title": "What Goes",
                     "slug": "what-goes",
@@ -270,11 +279,11 @@
                     "number": 8,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/08 What Goes/1 Living with Cai.html",
+                            "src": "manuscript/2 Ripplechaser/2 What Goes/1 Living with Cai.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 25, 2023 at 7:34 PM",
-                                "Modified": "June 1, 2023 at 10:50 PM",
+                                "Modified": "June 1, 2023 at 11:21 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -284,7 +293,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/09 Applications to Soberware",
+                    "src": "manuscript/2 Ripplechaser/3 Applications to Soberware",
                     "kind": "chapter",
                     "title": "Applications to Soberware",
                     "slug": "applications-to-soberware",
@@ -292,11 +301,11 @@
                     "number": 9,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/09 Applications to Soberware/1 Revelations with Rui.html",
+                            "src": "manuscript/2 Ripplechaser/3 Applications to Soberware/1 Revelations with Rui.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 31, 2023 at 9:44 AM",
-                                "Modified": "June 1, 2023 at 10:50 PM",
+                                "Modified": "June 1, 2023 at 11:24 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -306,7 +315,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/10 Up Must",
+                    "src": "manuscript/2 Ripplechaser/4 Up Must",
                     "kind": "chapter",
                     "title": "Up Must",
                     "slug": "up-must",
@@ -314,7 +323,7 @@
                     "number": 10,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/10 Up Must/1 RIpplechasing.html",
+                            "src": "manuscript/2 Ripplechaser/4 Up Must/1 RIpplechasing.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 31, 2023 at 4:09 PM",
@@ -328,7 +337,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/11 Night to Night",
+                    "src": "manuscript/2 Ripplechaser/5 Night to Night",
                     "kind": "chapter",
                     "title": "Night to Night",
                     "slug": "night-to-night",
@@ -336,7 +345,7 @@
                     "number": 11,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/11 Night to Night/1 Not not thinking about it.html",
+                            "src": "manuscript/2 Ripplechaser/5 Night to Night/1 Not not thinking about it.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "June 1, 2023 at 1:57 PM",
@@ -348,7 +357,7 @@
                             "title": "Not not thinking about it"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/11 Night to Night/2 A neikonaut collapses.html",
+                            "src": "manuscript/2 Ripplechaser/5 Night to Night/2 A neikonaut collapses.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 6, 2023 at 8:11 AM",
@@ -362,7 +371,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/12 Double Descent",
+                    "src": "manuscript/2 Ripplechaser/6 Double Descent",
                     "kind": "chapter",
                     "title": "Double Descent",
                     "slug": "double-descent",
@@ -370,11 +379,11 @@
                     "number": 12,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/12 Double Descent/1 At Double Descent.html",
+                            "src": "manuscript/2 Ripplechaser/6 Double Descent/1 At Double Descent.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 6, 2023 at 8:07 AM",
-                                "Modified": "March 1, 2023 at 10:41 PM",
+                                "Modified": "June 2, 2023 at 3:19 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -382,11 +391,11 @@
                             "title": "At Double Descent"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/12 Double Descent/2 Confronting Tethi.html",
+                            "src": "manuscript/2 Ripplechaser/6 Double Descent/2 Confronting Tethi.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 28, 2023 at 10:04 AM",
-                                "Modified": "March 14, 2023 at 6:58 PM",
+                                "Modified": "June 2, 2023 at 4:09 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -396,7 +405,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/13 So Below",
+                    "src": "manuscript/2 Ripplechaser/7 So Below",
                     "kind": "chapter",
                     "title": "So Below",
                     "slug": "so-below",
@@ -404,11 +413,11 @@
                     "number": 13,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/13 So Below/1 Chalker tunnels.html",
+                            "src": "manuscript/2 Ripplechaser/7 So Below/1 Chalker tunnels.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 1, 2023 at 11:54 AM",
-                                "Modified": "March 5, 2023 at 10:36 PM",
+                                "Modified": "June 2, 2023 at 4:58 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -416,11 +425,11 @@
                             "title": "Chalker tunnels"
                         },
                         {
-                            "src": "manuscript/1 Neikonaut/13 So Below/2 Mona sees the DB in the Sea.html",
+                            "src": "manuscript/2 Ripplechaser/7 So Below/2 Mona sees the DB in the Sea.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 2, 2023 at 12:01 PM",
-                                "Modified": "March 4, 2023 at 4:06 PM",
+                                "Modified": "June 2, 2023 at 5:18 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -430,7 +439,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/1 Neikonaut/14 Come Down",
+                    "src": "manuscript/2 Ripplechaser/8 Come Down",
                     "kind": "chapter",
                     "title": "Come Down",
                     "slug": "come-down",
@@ -438,16 +447,16 @@
                     "number": 14,
                     "children": [
                         {
-                            "src": "manuscript/1 Neikonaut/14 Come Down/1 The third dream, told first.html",
+                            "src": "manuscript/2 Ripplechaser/8 Come Down/1 Anenome Pop dies.html",
                             "kind": "section",
                             "metadata": {
-                                "Created": "April 12, 2023 at 9:29 PM",
-                                "Modified": "April 13, 2023 at 8:12 AM",
+                                "Created": "June 2, 2023 at 5:19 PM",
+                                "Modified": "June 2, 2023 at 5:57 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
                             },
-                            "title": "The third dream, told first"
+                            "title": "Anenome Pop dies"
                         }
                     ]
                 }
