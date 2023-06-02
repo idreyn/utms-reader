@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 import { ChapterDetails } from "@/types";
 import { ChapterTitle } from "@/components";
@@ -23,7 +24,7 @@ export const ChapterQuickNav = (props: Props) => {
                 )}
             </div>
             <div className={styles.contents}>
-                <a href="/read">Contents</a>
+                <Link href="/read">Contents</Link>
             </div>
             <div className={styles.next}>
                 {next && (

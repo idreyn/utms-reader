@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "ingest": "ts-node -r esm ./src/ingest/cli.ts --input ./manuscript --output ./manuscript.json"
+    "ingest": "ts-node -r esm ./src/ingest/cli.ts --input ./manuscript --output ./manuscript.json",
+    "build-static": "chmod +x ./build-static.sh && ./build-static.sh"
   },
   "dependencies": {
     "@types/node": "20.2.5",
