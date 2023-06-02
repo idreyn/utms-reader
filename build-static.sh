@@ -1,7 +1,5 @@
 export DOMAIN="idreyn.github.io/utms-reader/"
-export ASSET_PREFX="$DOMAIN"
-
-echo $ASSET_PREFX;
+export ASSET_PREFIX="https://$DOMAIN"
 
 rm -r ./docs
 npx next build
