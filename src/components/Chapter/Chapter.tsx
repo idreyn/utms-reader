@@ -5,6 +5,8 @@ import { ChapterDetails } from "@/types";
 import { ReadingLayout } from "../ReadingLayout";
 import { ChapterQuickNav } from "../ChapterQuickNav";
 
+import styles from "./Chapter.module.css";
+
 type Props = {
     contents: string;
     details: ChapterDetails;
@@ -25,8 +27,14 @@ export const Chapter = (props: Props) => {
                     {quickNav}
                 </>
             }
-            main={<div dangerouslySetInnerHTML={{ __html: contents }} />}
+            body={
+                <div
+                    className={styles.bodyText}
+                    dangerouslySetInnerHTML={{ __html: contents }}
+                />
+            }
             post={quickNav}
+            useSerifBodyFont
         />
     );
 };

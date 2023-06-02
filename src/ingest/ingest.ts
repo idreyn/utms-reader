@@ -58,7 +58,25 @@ const extractTitle = (elementPath: string) => {
     return baseName;
 };
 
-const ingestManuscriptElement = (src: string, depth = 0): ManuscriptElement => {
+const counter = () => {
+    const state: Partial<Record<ManuscriptElementKind, number>> = {};
+
+    const next = (kind: ManuscriptElementKind) => {
+        const current = state[kind] ?? 1;
+        state[kind] = current + 1;
+        return current;
+    };
+
+    return next;
+};
+
+type Counter = ReturnType<typeof counter>;
+
+const ingestManuscriptElement = (
+    src: string,
+    counter: Counter,
+    depth = 0,
+): ManuscriptElement => {
     const isDirectory = fs.statSync(src).isDirectory();
     if (isDirectory) {
         const childElements = fs
@@ -76,7 +94,7 @@ const ingestManuscriptElement = (src: string, depth = 0): ManuscriptElement => {
                 (path) =>
                     path.endsWith(".html") || fs.statSync(path).isDirectory(),
             )
-            .map((path) => ingestManuscriptElement(path, depth + 1));
+            .map((path) => ingestManuscriptElement(path, counter, depth + 1));
         if (kind === "manuscript") {
             const validChildren = children.filter(
                 (child): child is Chapter | Part =>
@@ -99,6 +117,7 @@ const ingestManuscriptElement = (src: string, depth = 0): ManuscriptElement => {
                 title,
                 slug,
                 metadata,
+                number: counter("chapter"),
                 children: childSections,
             };
         }
@@ -108,6 +127,7 @@ const ingestManuscriptElement = (src: string, depth = 0): ManuscriptElement => {
             kind,
             title,
             metadata,
+            number: counter("part"),
             children: childChapters,
         };
     }
@@ -122,6 +142,7 @@ const ingestManuscriptElement = (src: string, depth = 0): ManuscriptElement => {
             metadata,
             title,
             slug,
+            number: counter("chapter"),
             children: [],
         };
     }
@@ -130,6 +151,6 @@ const ingestManuscriptElement = (src: string, depth = 0): ManuscriptElement => {
 
 export const ingestManuscript = (options: IngestOptions) => {
     const { inputDirectoryPath, outputJsonPath } = options;
-    const manuscript = ingestManuscriptElement(inputDirectoryPath);
+    const manuscript = ingestManuscriptElement(inputDirectoryPath, counter());
     fs.writeFileSync(outputJsonPath, JSON.stringify(manuscript, null, 4));
 };

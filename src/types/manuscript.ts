@@ -11,11 +11,13 @@ export type Section = ManupscriptBaseElement & {
 export type Chapter = ManupscriptBaseElement & {
     kind: "chapter";
     slug: string;
+    number: number;
     children: Section[];
 };
 
 export type Part = ManupscriptBaseElement & {
     kind: "part";
+    number: number;
     children: Chapter[];
 };
 

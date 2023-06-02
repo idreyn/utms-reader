@@ -1,7 +1,4 @@
-import fs from "fs";
-import { parse as parseHtml } from "node-html-parser";
-
-import { Chapter, ManuscriptElement } from "@/types";
+import { ManuscriptElement } from "@/types";
 
 export const walkManuscript = (
     manuscript: ManuscriptElement,
@@ -27,17 +24,4 @@ export const findManuscriptElements = (
         }
     });
     return found;
-};
-
-export const loadHtmlFile = (filePath: string) => {
-    const htmlText = fs.readFileSync(filePath).toString();
-    const parsed = parseHtml(htmlText);
-    return parsed.querySelector("body")!.innerHTML;
-};
-
-export const loadChapterContents = (chapter: Chapter) => {
-    return [chapter.src, ...chapter.children.map((child) => child.src)]
-        .filter((path) => path.endsWith(".html"))
-        .map((path) => loadHtmlFile(path))
-        .join("\n");
 };

@@ -3,10 +3,18 @@
     justify-content: space-between;
 }
 
+.chapterQuickNav > * {
+    width: calc(100% / 3);
+}
+
 .previous {
-    margin-right: auto;
+    text-align: left;
+}
+
+.contents {
+    text-align: center;
 }
 
 .next {
-    margin-left: auto;
+    text-align: right;
 }
