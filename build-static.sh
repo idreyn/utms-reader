@@ -1,5 +1,7 @@
-BUILD_GH_PAGES="true"
-DOMAIN="mirrorsea.xyz"
+export DOMAIN="idreyn.github.io/utms-reader/"
+export ASSET_PREFX="$DOMAIN"
+
+echo $ASSET_PREFX;
 
 rm -r ./docs
 npx next build
