@@ -1,6 +1,4 @@
 export DOMAIN="mirrorsea.xyz"
-export ASSET_PREFIX="/"
-export BASE_PATH=""
 
 rm -r ./docs
 npx next build
