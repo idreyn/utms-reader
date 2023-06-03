@@ -19,7 +19,7 @@ export const ChapterQuickNav = (props: Props) => {
             <div className={styles.previous}>
                 {previous && (
                     <ChapterTitle chapter={previous} link>
-                        &larr; Previous
+                        &larr; Back
                     </ChapterTitle>
                 )}
             </div>
