@@ -1,5 +1,5 @@
 "use client";
-import React, { useCallback, useRef } from "react";
+import React, { useCallback, useEffect, useRef } from "react";
 import { MdDarkMode, MdLightMode } from "react-icons/md";
 
 import { useThemeContext } from "../ThemeProvider";
@@ -33,6 +33,10 @@ export const ThemeToggle = (props: Props) => {
         }
         return () => {};
     }, [theme, setTheme]);
+
+    useEffect(() => {
+        document.body.classList.add(styles.animatedBody);
+    }, []);
 
     const hidden = theme === null;
 

@@ -1,4 +1,5 @@
 import { Space_Mono } from "next/font/google";
+import classNames from "classnames";
 
 import { ThemeProvider } from "@/components";
 
@@ -18,7 +19,7 @@ export default function RootLayout(props: Props) {
     const { children } = props;
     return (
         <html lang="en">
-            <body className={bodyFont.className}>
+            <body className={classNames(bodyFont.className)}>
                 <ThemeProvider>{children}</ThemeProvider>
             </body>
         </html>

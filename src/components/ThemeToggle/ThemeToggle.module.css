@@ -41,3 +41,7 @@
     animation-timing-function: ease-out;
     animation: 0s 1 sunset;
 }
+
+.animatedBody {
+    transition: background 0.1s ease-out, color 0.1s ease-out;
+}
