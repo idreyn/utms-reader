@@ -6,7 +6,7 @@ import styles from "./page.module.css";
 const info = (
     <>
         <p>
-            <i>Upon the Mirror Sea</i> is longform science-fiction.
+            <i>Upon the Mirror Sea</i> is longform science fiction.
         </p>
         <p>
             Like everyone else at Shanghai's top university, Mona Xu is a
@@ -35,7 +35,7 @@ export default function Home() {
     return (
         <main className={styles.mainContent}>
             <h1 className={styles.title}>Upon the Mirror Sea</h1>
-            <h2 className={styles.subtitle}>静海之上</h2>
+            <h2 className={styles.subtitle}>镜海之上</h2>
             <div className={styles.info}>{info}</div>
             <div className={styles.links}>
                 <Link href="/read">Start reading</Link>
