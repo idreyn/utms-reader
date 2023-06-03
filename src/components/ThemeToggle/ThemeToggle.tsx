@@ -1,5 +1,5 @@
 "use client";
-import React, { useCallback } from "react";
+import React, { useCallback, useRef } from "react";
 import { MdDarkMode, MdLightMode } from "react-icons/md";
 
 import { useThemeContext } from "../ThemeProvider";
@@ -10,15 +10,30 @@ type Props = {
     iconSize?: number;
 };
 
+const animationTimeMs = 300;
+
 export const ThemeToggle = (props: Props) => {
     const { iconSize = 20 } = props;
     const { theme, setTheme } = useThemeContext();
-    const Icon = theme === "dark" ? MdLightMode : MdDarkMode;
+    const iconsRef = useRef<HTMLDivElement>(null);
 
-    const toggleTheme = useCallback(
-        () => setTheme(theme === "dark" ? "light" : "dark"),
-        [theme, setTheme],
-    );
+    const toggleTheme = useCallback(() => {
+        if (iconsRef.current) {
+            const icons = iconsRef.current;
+            icons.classList.add(styles.sunset);
+            const timeout = setTimeout(() => {
+                icons.classList.remove(styles.sunset);
+                icons.classList.add(styles.sunrise);
+                setTheme(theme === "dark" ? "light" : "dark");
+                setTimeout(() => {
+                    icons.classList.remove(styles.sunrise);
+                }, animationTimeMs / 2);
+            }, animationTimeMs / 2);
+            return () => clearTimeout(timeout);
+        }
+        return () => {};
+    }, [theme, setTheme]);
+
     const hidden = theme === null;
 
     return (
@@ -26,9 +41,21 @@ export const ThemeToggle = (props: Props) => {
             className={styles.button}
             disabled={hidden}
             onClick={toggleTheme}
-            style={{ opacity: hidden ? 0 : 1 }}
+            style={{ opacity: hidden ? 0 : 1, height: iconSize }}
         >
-            <Icon size={iconSize} />
+            <div
+                className={styles.icons}
+                ref={iconsRef}
+                style={{
+                    flexDirection:
+                        theme === "dark" ? "column-reverse" : "column",
+                    height: iconSize * 2,
+                    animationDuration: `${animationTimeMs}ms`,
+                }}
+            >
+                <MdLightMode size={iconSize} />
+                <MdDarkMode size={iconSize} />
+            </div>
         </button>
     );
 };

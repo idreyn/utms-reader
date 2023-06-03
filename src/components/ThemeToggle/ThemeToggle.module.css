@@ -1,6 +1,43 @@
+@keyframes sunset {
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(50%);
+    }
+}
+
+@keyframes sunrise {
+    from {
+        transform: translateY(50%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
 .button {
     display: flex;
-    align-items: center;
     justify-content: center;
+    overflow: hidden;
     transition: 0.1s ease-in-out opacity;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    animation-iteration-count: 1;
+}
+
+.sunrise {
+    animation-timing-function: ease-in;
+    animation: 0s 1 sunrise;
+}
+
+.sunset {
+    animation-timing-function: ease-out;
+    animation: 0s 1 sunset;
 }
