@@ -1,6 +1,6 @@
-export DOMAIN="idreyn.github.io/utms-reader/"
-export ASSET_PREFIX="https://$DOMAIN"
-export BASE_PATH="/utms-reader"
+export DOMAIN="mirrorsea.xyz"
+export ASSET_PREFIX="/"
+export BASE_PATH=""
 
 rm -r ./docs
 npx next build
@@ -8,4 +8,4 @@ mv ./out ./docs
 rm ./docs/*.txt
 rm ./docs/**/*.txt
 touch ./docs/.nojekyll
-# echo $DOMAIN > ./docs/CNAME
+echo $DOMAIN > ./docs/CNAME
