@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "ingest": "ts-node -r esm ./src/ingest/cli.ts --input ./manuscript --output ./manuscript.json",
-    "build-static": "chmod +x ./build-static.sh && ./build-static.sh"
+    "build-static": "chmod +x ./build-static.sh && ./build-static.sh",
+    "update": "npm run build-static && git add . && git commit -am \"Build: $(date)\""
   },
   "dependencies": {
     "@types/node": "20.2.5",

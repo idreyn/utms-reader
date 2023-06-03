@@ -6,6 +6,4 @@ const nextConfig = {
     basePath: process.env.BASE_PATH,
 };
 
-console.log({ nextConfig });
-
 module.exports = nextConfig;
