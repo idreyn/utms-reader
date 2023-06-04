@@ -92,7 +92,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "June 1, 2023 at 10:40 PM",
-                                "Modified": "June 2, 2023 at 3:11 PM",
+                                "Modified": "June 4, 2023 at 4:03 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -148,7 +148,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 21, 2023 at 2:53 PM",
-                                "Modified": "June 1, 2023 at 1:33 PM",
+                                "Modified": "June 4, 2023 at 4:04 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -194,7 +194,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "May 29, 2023 at 2:38 PM",
-                                "Modified": "June 2, 2023 at 10:16 PM",
+                                "Modified": "June 3, 2023 at 10:20 AM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -361,7 +361,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "February 6, 2023 at 8:11 AM",
-                                "Modified": "June 2, 2023 at 10:52 PM",
+                                "Modified": "June 4, 2023 at 3:38 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -405,19 +405,19 @@
                     ]
                 },
                 {
-                    "src": "manuscript/2 Ripplechaser/7 So Below",
+                    "src": "manuscript/2 Ripplechaser/7 Unfold Unfurl Undone",
                     "kind": "chapter",
-                    "title": "So Below",
-                    "slug": "so-below",
+                    "title": "Unfold Unfurl Undone",
+                    "slug": "unfold-unfurl-undone",
                     "metadata": {},
                     "number": 13,
                     "children": [
                         {
-                            "src": "manuscript/2 Ripplechaser/7 So Below/1 Chalker tunnels.html",
+                            "src": "manuscript/2 Ripplechaser/7 Unfold Unfurl Undone/1 Chalker tunnels.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 1, 2023 at 11:54 AM",
-                                "Modified": "June 2, 2023 at 11:10 PM",
+                                "Modified": "June 4, 2023 at 3:37 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -425,11 +425,11 @@
                             "title": "Chalker tunnels"
                         },
                         {
-                            "src": "manuscript/2 Ripplechaser/7 So Below/2 Mona sees the DB in the Sea.html",
+                            "src": "manuscript/2 Ripplechaser/7 Unfold Unfurl Undone/2 Mona sees the DB in the Sea.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 2, 2023 at 12:01 PM",
-                                "Modified": "June 2, 2023 at 5:18 PM",
+                                "Modified": "June 4, 2023 at 4:06 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
@@ -451,7 +451,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "June 2, 2023 at 5:19 PM",
-                                "Modified": "June 2, 2023 at 11:20 PM",
+                                "Modified": "June 4, 2023 at 4:01 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": ""
