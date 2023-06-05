@@ -20,14 +20,21 @@ const info = (
             dredging out the digital debris that gets left behind.
         </p>
         <p>
-            Mona's advisor, the celebrated Dr. Deng, wants her to spend less
-            time in the run-down basement clinic, and more time cobbling
-            together a dissertation. But to Deng's exasperation, Mona is
-            convinced she sees something the entire field missed: the painful
-            shards she's collected fit together in a strange and compelling way.
-            And day by day, her wild ideas are looking more like a scientific
-            theory that will shake the Yangtze Delta Orthogonal Zone to its
-            core…
+            The most exciting thing to happen to Mona was her flatmate, Cai
+            Yuhui. Cai taught her to probe Shanghai's bizarrely anonymized
+            surveillance system, to chase the Ripples inhabiting it towards
+            strange, electrifying, noctural dimensions of self and city. She
+            hurt herself badly that way. Her advisor is sympathetic, in her own
+            stilted way: urging Mona to heal, forget, and cobble together a
+            dissertation.
+        </p>
+        <p>
+            But she's about to discover something in a patient's mind that
+            pushes her back to that boundary between reality and delusion,
+            observer and observed. Back to the Mirror Sea. On the eve of crisis,
+            against the wishes of her advisor, Mona must guide an
+            earth-shattering revelation into the world: when we are together,{" "}
+            <i>we are not alone</i>.
         </p>
     </>
 );
