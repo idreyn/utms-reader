@@ -20,13 +20,12 @@ const info = (
             dredging out the digital debris that gets left behind.
         </p>
         <p>
-            The most exciting thing to happen to Mona was her flatmate, Cai
-            Yuhui. Cai taught her to probe Shanghai's bizarrely anonymized
-            surveillance system, to chase the Ripples inhabiting it towards
-            strange, electrifying, noctural dimensions of self and city. She
-            hurt herself badly that way. Her advisor is sympathetic, in her own
-            stilted way: urging Mona to heal, forget, and cobble together a
-            dissertation.
+            The most exciting thing in Mona's life was her flatmate, Cai Yuhui.
+            Cai taught her to probe Shanghai's bizarrely anonymized surveillance
+            system, to chase the Ripples inhabiting it towards strange,
+            electrifying, noctural dimensions of self and city. She hurt herself
+            badly that way. Her advisor is sympathetic, in her own stilted way:
+            urging Mona to heal, forget, and cobble together a dissertation.
         </p>
         <p>
             But she's about to discover something in a patient's mind that
