@@ -5,7 +5,7 @@ import { TableOfContents } from "@/components";
 
 const teaser = (
     <>
-        <h2>Part 3</h2>
+        <h2>Part 4</h2>
         <i>Coming Summer 2023</i>
     </>
 );
