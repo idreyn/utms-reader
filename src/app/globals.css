@@ -34,3 +34,34 @@ input[type="reset"] {
   cursor: pointer;
   outline: inherit;
 }
+
+.mono {
+  font-family: monospace;
+  font-size: 1.1em;
+}
+
+.centered {
+  text-align: center;
+}
+
+.tex {
+  margin-left: 60px;
+  margin-right: 60px;
+  letter-spacing: 0.03em;
+  line-height: 1.8em;
+}
+
+@media screen and (max-width: 600px) {
+  .tex {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 0.95em;
+    line-height: 1.5em;
+  }
+}
+
+.tex .katex {
+  font-size: 1em;
+  font-weight: 300;
+}
