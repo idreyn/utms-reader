@@ -6,10 +6,6 @@
     text-align: justify;
 }
 
-.readingLayout h1 {
-    text-align: left;
-}
-
 @media screen and (max-width: 500px) {
     .readingLayout h1 {
         font-size: 24px;

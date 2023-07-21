@@ -7,12 +7,7 @@ const info = (
     <>
         <p>
             <i>Upon the Mirror Sea</i> is longform science fiction.{" "}
-            <b>It is a work in progress</b>, to be completed in 2023. You can
-            follow{" "}
-            <a href="https://twitter.com/phaseborn" target="_blank">
-                @phaseborn
-            </a>{" "}
-            on Twitter for updates.
+            <b>It is a work in progress</b>, to be completed in 2023.
         </p>
         <p>
             Like everyone else at Shanghai's top university, Mona Xu is a

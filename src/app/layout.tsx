@@ -4,17 +4,12 @@ import classNames from "classnames";
 import { ThemeProvider } from "@/components";
 
 import "./globals.css";
-import "katex/dist/katex.min.css";
 
 type Props = {
     children: React.ReactNode;
 };
 
-const bodyFont = Space_Mono({
-    subsets: ["latin"],
-    weight: "400",
-    display: "swap",
-});
+const bodyFont = Space_Mono({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
     title: "Upon the Mirror Sea",

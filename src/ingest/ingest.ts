@@ -25,27 +25,13 @@ const slugify = (str: string) => {
         .replace(/^-+|-+$/g, "");
 };
 
-const transformMetadataValue = (value: string) => {
-    if (value === "Yes") {
-        return true;
-    }
-    if (value === "No") {
-        return false;
-    }
-    return value;
-};
-
-const ingestMetadata = (metadataPath: string): Record<string, any> => {
+const ingestMetadata = (metadataPath: string): Record<string, string> => {
     if (fs.existsSync(metadataPath)) {
-        const lines = fs
-            .readFileSync(metadataPath)
-            .toString()
-            .trim()
-            .split("\n");
+        const lines = fs.readFileSync(metadataPath).toString().split("\n");
         return Object.fromEntries(
             lines.map((line) => {
-                const [key, value] = line.split(":").map((x) => x.trim());
-                return [key, transformMetadataValue(value)];
+                const [key, value] = line.split(": ");
+                return [key, value];
             }),
         );
     }
@@ -58,7 +44,7 @@ const ingestMetadataForHtml = (htmlPath: string) => {
 
 const ingestMetadataForDirectory = (directoryPath: string) => {
     const baseName = path.basename(directoryPath);
-    const metadataPath = path.join(directoryPath, `${baseName} MetaData.txt`);
+    const metadataPath = path.join(baseName, `${baseName} MetaData.txt`);
     return ingestMetadata(metadataPath);
 };
 
@@ -90,7 +76,7 @@ const ingestManuscriptElement = (
     src: string,
     counter: Counter,
     depth = 0,
-): null | ManuscriptElement => {
+): ManuscriptElement => {
     const isDirectory = fs.statSync(src).isDirectory();
     if (isDirectory) {
         const childElements = fs
@@ -136,9 +122,6 @@ const ingestManuscriptElement = (
             };
         }
         const childChapters = children.filter(isChapter);
-        if (metadata.unpublished) {
-            return null;
-        }
         return {
             src,
             kind,
