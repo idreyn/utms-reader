@@ -10,6 +10,9 @@ const main = () => {
         output,
         unpublished: includeUnpublished,
     } = argv as Record<string, string>;
+    if (!source || !input || !output) {
+        throw new Error("Missing some arguments");
+    }
     ingestManuscript({
         includeUnpublished: !!includeUnpublished,
         sourceDirectoryPath: source,
