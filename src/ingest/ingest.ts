@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { execSync } from "child_process";
 
 import {
     ManuscriptElement,
@@ -12,8 +13,10 @@ import {
 } from "../types";
 
 type IngestOptions = {
+    sourceDirectoryPath: string;
     inputDirectoryPath: string;
     outputJsonPath: string;
+    includeUnpublished: boolean;
 };
 
 const slugify = (str: string) => {
@@ -89,6 +92,7 @@ type Counter = ReturnType<typeof counter>;
 const ingestManuscriptElement = (
     src: string,
     counter: Counter,
+    includeUnpublished: boolean,
     depth = 0,
 ): null | ManuscriptElement => {
     const isDirectory = fs.statSync(src).isDirectory();
@@ -108,7 +112,14 @@ const ingestManuscriptElement = (
                 (path) =>
                     path.endsWith(".html") || fs.statSync(path).isDirectory(),
             )
-            .map((path) => ingestManuscriptElement(path, counter, depth + 1));
+            .map((path) =>
+                ingestManuscriptElement(
+                    path,
+                    counter,
+                    includeUnpublished,
+                    depth + 1,
+                ),
+            );
         if (kind === "manuscript") {
             const validChildren = children.filter(
                 (child): child is Chapter | Part =>
@@ -136,7 +147,7 @@ const ingestManuscriptElement = (
             };
         }
         const childChapters = children.filter(isChapter);
-        if (metadata.unpublished) {
+        if (metadata.unpublished && !includeUnpublished) {
             return null;
         }
         return {
@@ -166,8 +177,18 @@ const ingestManuscriptElement = (
     return { src, kind, metadata, title };
 };
 
+const copyToLocalInputDirectory = (options: IngestOptions) => {
+    const { sourceDirectoryPath, inputDirectoryPath } = options;
+    execSync(`cp -r ${sourceDirectoryPath}/. ${inputDirectoryPath}`);
+};
+
 export const ingestManuscript = (options: IngestOptions) => {
-    const { inputDirectoryPath, outputJsonPath } = options;
-    const manuscript = ingestManuscriptElement(inputDirectoryPath, counter());
+    const { inputDirectoryPath, outputJsonPath, includeUnpublished } = options;
+    copyToLocalInputDirectory(options);
+    const manuscript = ingestManuscriptElement(
+        inputDirectoryPath,
+        counter(),
+        includeUnpublished,
+    );
     fs.writeFileSync(outputJsonPath, JSON.stringify(manuscript, null, 4));
 };
