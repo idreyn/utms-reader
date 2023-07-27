@@ -47,7 +47,11 @@ const ingestMetadata = (metadataPath: string): Record<string, any> => {
             .split("\n");
         return Object.fromEntries(
             lines.map((line) => {
-                const [key, value] = line.split(":").map((x) => x.trim());
+                const firstColon = line.indexOf(":");
+                const [key, value] = [
+                    line.slice(0, firstColon).trim(),
+                    line.slice(firstColon + 1).trim(),
+                ];
                 return [key, transformMetadataValue(value)];
             }),
         );
