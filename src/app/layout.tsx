@@ -1,3 +1,4 @@
+import { Metadata } from "next";
 import { Space_Mono } from "next/font/google";
 import classNames from "classnames";
 
@@ -16,8 +17,21 @@ const bodyFont = Space_Mono({
     display: "swap",
 });
 
-export const metadata = {
+const description =
+    "A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.";
+
+export const metadata: Metadata = {
     title: "Upon the Mirror Sea",
+    description,
+    metadataBase: new URL("https://mirrorsea.xyz"),
+    openGraph: {
+        images: ["cover.png"],
+        description,
+    },
+    twitter: {
+        card: "summary_large_image",
+        creator: "@phaseborn",
+    },
 };
 
 export default function RootLayout(props: Props) {
