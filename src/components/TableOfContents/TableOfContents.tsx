@@ -19,13 +19,14 @@ export const TableOfContents = (props: Props) => {
     };
 
     const renderPart = (part: Part) => {
+        const { title, number, children } = part;
         return (
             <section className={styles.section}>
-                <h2>
-                    Part {part.number}: {part.title}
+                <h2 id={`part-${number}`}>
+                    Part {number}: {title}
                 </h2>
                 <ul className={styles.list}>
-                    {part.children.map((child, index) => (
+                    {children.map((child, index) => (
                         <li key={index}>{renderChapter(child)}</li>
                     ))}
                 </ul>
