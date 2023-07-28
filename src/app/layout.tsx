@@ -17,18 +17,22 @@ const bodyFont = Space_Mono({
     display: "swap",
 });
 
+const title = "Upon the Mirror Sea";
+
 const description =
     "A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.";
 
 export const metadata: Metadata = {
-    title: "Upon the Mirror Sea",
+    title,
     description,
     metadataBase: new URL("https://mirrorsea.xyz"),
     openGraph: {
+        title,
         images: ["cover.png"],
         description,
     },
     twitter: {
+        title,
         card: "summary_large_image",
         creator: "@phaseborn",
     },
