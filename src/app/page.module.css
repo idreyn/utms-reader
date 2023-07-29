@@ -1,7 +1,6 @@
 .mainContent {
     max-width: 700px;
     min-height: 100vh;
-    width: calc(100vw - 40px);
     padding: 20px;
     margin: 0 auto;
     display: flex;
@@ -19,6 +18,14 @@
 @media screen and (max-width: 500px) {
     .title {
         font-size: 20px;
+    }
+
+    .mainContent {
+        padding: 15px;
+    }
+
+    .info {
+        text-align: left !important;
     }
 }
 
