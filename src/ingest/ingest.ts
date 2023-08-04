@@ -183,6 +183,10 @@ const ingestManuscriptElement = (
 
 const copyToLocalInputDirectory = (options: IngestOptions) => {
     const { sourceDirectoryPath, inputDirectoryPath } = options;
+    if (!inputDirectoryPath.toLowerCase().includes("/manuscript")) {
+        throw new Error(`Refusing to delete: ${inputDirectoryPath}`);
+    }
+    execSync(`rm -rf ${inputDirectoryPath}`);
     execSync(`cp -r ${sourceDirectoryPath}/. ${inputDirectoryPath}`);
 };
 
