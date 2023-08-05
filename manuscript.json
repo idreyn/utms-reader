@@ -14,7 +14,8 @@
                 "Status": "Done",
                 "Label": "No Label",
                 "Keywords": "",
-                "unpublished": false
+                "unpublished": false,
+                "incomplete": false
             },
             "number": 1,
             "children": [
@@ -29,7 +30,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 1,
                     "children": [
@@ -42,7 +44,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Introduction"
                         },
@@ -55,7 +58,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Meeting Mbetethi"
                         },
@@ -68,7 +72,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Tiling in"
                         }
@@ -85,7 +90,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 2,
                     "children": [
@@ -98,7 +104,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Bumping around in there"
                         }
@@ -115,7 +122,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 3,
                     "children": [
@@ -128,7 +136,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Destroying the debris"
                         },
@@ -141,7 +150,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Tiling out"
                         }
@@ -158,7 +168,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 4,
                     "children": [
@@ -171,7 +182,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "In the Hall of Eggs"
                         }
@@ -188,7 +200,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 5,
                     "children": [
@@ -201,7 +214,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "It's proprietary"
                         },
@@ -214,7 +228,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Introducing Rui"
                         },
@@ -227,7 +242,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Case studies"
                         }
@@ -244,7 +260,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 6,
                     "children": [
@@ -257,7 +274,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Deng on rounds"
                         },
@@ -270,7 +288,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Familiar shapes"
                         }
@@ -288,7 +307,8 @@
                 "Status": "Done",
                 "Label": "No Label",
                 "Keywords": "",
-                "unpublished": false
+                "unpublished": false,
+                "incomplete": false
             },
             "number": 2,
             "children": [
@@ -303,7 +323,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 7,
                     "children": [
@@ -316,7 +337,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Not thinking about it"
                         },
@@ -329,7 +351,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Deng won't help"
                         },
@@ -342,7 +365,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Still not thinking about it"
                         }
@@ -359,7 +383,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 8,
                     "children": [
@@ -372,7 +397,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Living with Cai"
                         }
@@ -389,7 +415,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 9,
                     "children": [
@@ -402,7 +429,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Revelations with Rui"
                         }
@@ -419,7 +447,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 10,
                     "children": [
@@ -432,7 +461,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "RIpplechasing"
                         }
@@ -449,7 +479,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 11,
                     "children": [
@@ -462,7 +493,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Not not thinking about it"
                         },
@@ -475,7 +507,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "A neikonaut collapses"
                         }
@@ -492,7 +525,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 12,
                     "children": [
@@ -505,7 +539,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "At Double Descent"
                         },
@@ -518,7 +553,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Confronting Tethi"
                         }
@@ -535,7 +571,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 13,
                     "children": [
@@ -548,7 +585,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Chalker tunnels"
                         },
@@ -561,7 +599,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Mona sees the DB in the Sea"
                         }
@@ -578,7 +617,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 14,
                     "children": [
@@ -591,7 +631,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Anenome Pop dies"
                         }
@@ -609,7 +650,8 @@
                 "Status": "No Status",
                 "Label": "No Label",
                 "Keywords": "",
-                "unpublished": false
+                "unpublished": false,
+                "incomplete": false
             },
             "number": 3,
             "children": [
@@ -624,7 +666,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 15,
                     "children": [
@@ -637,7 +680,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Mona's still losing it"
                         },
@@ -650,7 +694,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "The Observatory"
                         }
@@ -667,7 +712,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 16,
                     "children": [
@@ -680,7 +726,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Reunion with Cai"
                         }
@@ -697,7 +744,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 17,
                     "children": [
@@ -710,7 +758,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Belief modulation"
                         }
@@ -727,7 +776,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 18,
                     "children": [
@@ -740,7 +790,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Causal incursion"
                         },
@@ -753,7 +804,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Yao's experiment"
                         }
@@ -770,7 +822,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 19,
                     "children": [
@@ -783,7 +836,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Deng's proposal"
                         },
@@ -796,7 +850,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Writing the paper"
                         },
@@ -809,7 +864,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Empathetic baseline"
                         }
@@ -826,7 +882,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 20,
                     "children": [
@@ -839,7 +896,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Sunflower mania"
                         },
@@ -852,7 +910,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Hatching the egg"
                         },
@@ -865,7 +924,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Surprise"
                         }
@@ -882,7 +942,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 21,
                     "children": [
@@ -895,7 +956,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Four-oh-eight"
                         },
@@ -908,7 +970,8 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "The patch"
                         }
@@ -925,7 +988,8 @@
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
-                        "unpublished": false
+                        "unpublished": false,
+                        "incomplete": false
                     },
                     "number": 22,
                     "children": [
@@ -938,9 +1002,211 @@
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
-                                "unpublished": false
+                                "unpublished": false,
+                                "incomplete": false
                             },
                             "title": "Zhang Peifeng contacts Mona"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "src": "manuscript/4 Parallax",
+            "kind": "part",
+            "title": "Parallax",
+            "metadata": {
+                "Created": "July 20, 2023 at 9:11 PM",
+                "Modified": "August 5, 2023 at 5:56 PM",
+                "Status": "No Status",
+                "Label": "No Label",
+                "Keywords": "",
+                "unpublished": false,
+                "incomplete": true
+            },
+            "number": 4,
+            "children": [
+                {
+                    "src": "manuscript/4 Parallax/1 Nine-Eyes",
+                    "kind": "chapter",
+                    "title": "Nine-Eyes",
+                    "slug": "nine-eyes",
+                    "metadata": {
+                        "Created": "August 1, 2023 at 2:48 PM",
+                        "Modified": "August 1, 2023 at 2:49 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false
+                    },
+                    "number": 23,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/1 Nine-Eyes/1 Waiting for Dr. Zhang.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "July 31, 2023 at 9:54 AM",
+                                "Modified": "August 5, 2023 at 11:51 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Waiting for Dr. Zhang"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/1 Nine-Eyes/2 Mona handles a camera.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 1, 2023 at 2:49 PM",
+                                "Modified": "August 5, 2023 at 5:55 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Mona handles a camera"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng",
+                    "kind": "chapter",
+                    "title": "Dr. Zhang Peifeng",
+                    "slug": "dr-zhang-peifeng",
+                    "metadata": {
+                        "Created": "June 26, 2023 at 1:13 PM",
+                        "Modified": "August 1, 2023 at 2:49 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false
+                    },
+                    "number": 24,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/1 A very brief digression.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 1, 2023 at 2:50 PM",
+                                "Modified": "August 5, 2023 at 12:06 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "A very brief digression"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/2 Mona and Tethi talk.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 3, 2023 at 3:15 PM",
+                                "Modified": "August 5, 2023 at 12:09 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Mona and Tethi talk"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/3 Down the street.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 1, 2023 at 2:50 PM",
+                                "Modified": "August 5, 2023 at 12:12 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Down the street"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/3 The Sea at Night",
+                    "kind": "chapter",
+                    "title": "The Sea at Night",
+                    "slug": "the-sea-at-night",
+                    "metadata": {
+                        "Created": "August 1, 2023 at 2:51 PM",
+                        "Modified": "August 3, 2023 at 10:00 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false
+                    },
+                    "number": 25,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/3 The Sea at Night/1 Tiling into the sea.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "July 10, 2023 at 4:37 PM",
+                                "Modified": "August 5, 2023 at 5:42 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Tiling into the sea"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/4 Ker-thoink",
+                    "kind": "chapter",
+                    "title": "Ker-thoink",
+                    "slug": "ker-thoink",
+                    "metadata": {
+                        "Created": "August 3, 2023 at 3:21 PM",
+                        "Modified": "August 3, 2023 at 3:21 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false
+                    },
+                    "number": 26,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/4 Ker-thoink/1 Directly afterwards.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 2, 2023 at 7:51 PM",
+                                "Modified": "August 5, 2023 at 5:45 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Directly afterwards"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/4 Ker-thoink/2 On the roof.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 3, 2023 at 3:20 PM",
+                                "Modified": "August 5, 2023 at 5:50 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "On the roof"
                         }
                     ]
                 }
