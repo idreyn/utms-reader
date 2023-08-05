@@ -14,12 +14,27 @@ type Props = {
 export const TableOfContents = (props: Props) => {
     const { manuscript, teaser = null } = props;
 
-    const renderChapter = (chapter: Chapter) => {
-        return <ChapterTitle chapter={chapter} link={true} digits={2} />;
+    const renderChapter = (chapter: Chapter, link = true) => {
+        return <ChapterTitle chapter={chapter} link={link} digits={2} />;
     };
 
     const renderPart = (part: Part) => {
-        const { title, number, children } = part;
+        const {
+            title,
+            number,
+            children,
+            metadata: { incomplete },
+        } = part;
+        const latestChapter = children[children.length - 1];
+        const fakeNextChapter: Chapter = {
+            title: "Coming soon",
+            number: latestChapter.number + 1,
+            src: "",
+            metadata: {},
+            kind: "chapter",
+            slug: "",
+            children: [],
+        };
         return (
             <section className={styles.section}>
                 <h2 id={`part-${number}`}>
@@ -29,6 +44,11 @@ export const TableOfContents = (props: Props) => {
                     {children.map((child, index) => (
                         <li key={index}>{renderChapter(child)}</li>
                     ))}
+                    {incomplete && (
+                        <li className={styles.incomplete}>
+                            {renderChapter(fakeNextChapter, false)}
+                        </li>
+                    )}
                 </ul>
             </section>
         );

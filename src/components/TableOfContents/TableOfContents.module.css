@@ -14,3 +14,7 @@
 .section h2 {
     margin-bottom: 4px;
 }
+
+.incomplete {
+    color: var(--color-incomplete);
+}

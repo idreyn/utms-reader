@@ -23,6 +23,7 @@ const updateTheme = (theme: ThemeName) => {
     const root = window.document.documentElement;
     root.style.setProperty("--color-text", themes[theme].text);
     root.style.setProperty("--color-background", themes[theme].background);
+    root.style.setProperty("--color-incomplete", themes[theme].incomplete);
     window.localStorage.setItem("theme-name", theme);
 };
 

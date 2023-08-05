@@ -4,10 +4,10 @@ import { loadManuscriptJson } from "@/ingest";
 import { TableOfContents } from "@/components";
 
 const teaser = (
-    <>
-        <h2>Part 4</h2>
-        <i>Coming Summer 2023</i>
-    </>
+    <div style={{ color: "var(--color-incomplete)" }}>
+        <h2>Parts 5-6</h2>
+        <i>Coming Fall 2023</i>
+    </div>
 );
 
 export default function TocPage() {

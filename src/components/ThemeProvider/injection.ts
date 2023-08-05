@@ -35,6 +35,12 @@ export const themeInjectionScript = `
         ? '${themes.light.background}'
         : '${themes.dark.background}'
     );
+    root.style.setProperty(
+      '--color-incomplete',
+      themeName === 'light'
+        ? '${themes.light.incomplete}'
+        : '${themes.dark.incomplete}'
+    );
     root.style.setProperty('--initial-theme-name', themeName);
   })()
 `;
