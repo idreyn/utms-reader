@@ -2,7 +2,12 @@ import fs from "fs";
 import path from "path";
 import { Feed } from "feed";
 
-import { getChapterDetails, getChapters, loadManuscriptJson } from "../ingest";
+import {
+    getChapterDetails,
+    getChapters,
+    loadChapterContents,
+    loadManuscriptJson,
+} from "../ingest";
 import { bookMetadata, chapterUrl } from "../utils";
 
 type FeedFormat = "rss2" | "atom1" | "json1";
@@ -35,11 +40,13 @@ const main = async () => {
         const { title, slug, publicationDate } = chapter;
         const { number } = getChapterDetails(chapters, slug);
         const url = chapterUrl(chapter);
+        const content = loadChapterContents(chapter);
         feed.addItem({
             title: `${number} // ${title}`.toUpperCase(),
             id: `${baseUrl}/{url}`,
             link: `${baseUrl}/${url}`,
             date: new Date(publicationDate),
+            content,
         });
     }
 
