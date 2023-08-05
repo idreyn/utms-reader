@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mirrorsea.xyz</id>
+    <title>Upon the Mirror Sea</title>
+    <updated>2023-08-05T23:06:07.716Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mirrorsea.xyz"/>
+    <subtitle>A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.</subtitle>
+    <logo>https://mirrorsea.xyz/cover.png</logo>
+    <icon>https://mirrorsea.xyz/favicon.ico</icon>
+    <rights>© 2023 by @phaseborn</rights>
+    <entry>
+        <title type="html"><![CDATA[1 // NEIKONAUT]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/neikonaut"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 // THIS IS LOOP-LOCK]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/this-is-loop-lock"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 // INVERSION]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/inversion"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 // IN THE HALL OF EGGS]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/in-the-hall-of-eggs"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 // DECLINE TO SAY]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/decline-to-say"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 // THE ZIPLOCK QUEEN OF FLOOR ZERO]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/the-ziplock-queen-of-floor-zero"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 // THE MIRROR SEA]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/the-mirror-sea"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 // WHAT GOES]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/what-goes"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 // APPLICATIONS TO SOBERWARE]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/applications-to-soberware"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 // UP MUST]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/up-must"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 // NIGHT TO NIGHT]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/night-to-night"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 // DOUBLE DESCENT]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/double-descent"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 // SO BELOW]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/so-below"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 // COME DOWN]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/come-down"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 // A LITTLE BIT OF PAPERWORK]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/a-little-bit-of-paperwork"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 // CAI]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/cai"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 // SPELUNKING]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/spelunking"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 // CAUSAL INCURSION]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/causal-incursion"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19 // INTO THE SOUP]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/into-the-soup"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 // MATERIAL #110]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/material-110"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 // A ROUND AND INNOCUOUS THING]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/a-round-and-innocuous-thing"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22 // HYPERLAGMITES]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/hyperlagmites"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23 // NINE-EYES]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/nine-eyes"/>
+        <updated>2023-08-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24 // DR. ZHANG PEIFENG]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/dr-zhang-peifeng"/>
+        <updated>2023-08-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 // THE SEA AT NIGHT]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/the-sea-at-night"/>
+        <updated>2023-08-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26 // KER-THOINK]]></title>
+        <id>https://mirrorsea.xyz/{url}</id>
+        <link href="https://mirrorsea.xyz//read/ker-thoink"/>
+        <updated>2023-08-05T00:00:00.000Z</updated>
+    </entry>
+</feed>

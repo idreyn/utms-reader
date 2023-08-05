@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Upon the Mirror Sea</title>
+        <link>https://mirrorsea.xyz</link>
+        <description>A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.</description>
+        <lastBuildDate>Sat, 05 Aug 2023 23:06:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Upon the Mirror Sea</title>
+            <url>https://mirrorsea.xyz/cover.png</url>
+            <link>https://mirrorsea.xyz</link>
+        </image>
+        <copyright>© 2023 by @phaseborn</copyright>
+        <item>
+            <title><![CDATA[1 // NEIKONAUT]]></title>
+            <link>https://mirrorsea.xyz//read/neikonaut</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 // THIS IS LOOP-LOCK]]></title>
+            <link>https://mirrorsea.xyz//read/this-is-loop-lock</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 // INVERSION]]></title>
+            <link>https://mirrorsea.xyz//read/inversion</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 // IN THE HALL OF EGGS]]></title>
+            <link>https://mirrorsea.xyz//read/in-the-hall-of-eggs</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 // DECLINE TO SAY]]></title>
+            <link>https://mirrorsea.xyz//read/decline-to-say</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 // THE ZIPLOCK QUEEN OF FLOOR ZERO]]></title>
+            <link>https://mirrorsea.xyz//read/the-ziplock-queen-of-floor-zero</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 // THE MIRROR SEA]]></title>
+            <link>https://mirrorsea.xyz//read/the-mirror-sea</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 // WHAT GOES]]></title>
+            <link>https://mirrorsea.xyz//read/what-goes</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9 // APPLICATIONS TO SOBERWARE]]></title>
+            <link>https://mirrorsea.xyz//read/applications-to-soberware</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 // UP MUST]]></title>
+            <link>https://mirrorsea.xyz//read/up-must</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11 // NIGHT TO NIGHT]]></title>
+            <link>https://mirrorsea.xyz//read/night-to-night</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12 // DOUBLE DESCENT]]></title>
+            <link>https://mirrorsea.xyz//read/double-descent</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 // SO BELOW]]></title>
+            <link>https://mirrorsea.xyz//read/so-below</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[14 // COME DOWN]]></title>
+            <link>https://mirrorsea.xyz//read/come-down</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 // A LITTLE BIT OF PAPERWORK]]></title>
+            <link>https://mirrorsea.xyz//read/a-little-bit-of-paperwork</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[16 // CAI]]></title>
+            <link>https://mirrorsea.xyz//read/cai</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[17 // SPELUNKING]]></title>
+            <link>https://mirrorsea.xyz//read/spelunking</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[18 // CAUSAL INCURSION]]></title>
+            <link>https://mirrorsea.xyz//read/causal-incursion</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[19 // INTO THE SOUP]]></title>
+            <link>https://mirrorsea.xyz//read/into-the-soup</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 // MATERIAL #110]]></title>
+            <link>https://mirrorsea.xyz//read/material-110</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21 // A ROUND AND INNOCUOUS THING]]></title>
+            <link>https://mirrorsea.xyz//read/a-round-and-innocuous-thing</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[22 // HYPERLAGMITES]]></title>
+            <link>https://mirrorsea.xyz//read/hyperlagmites</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[23 // NINE-EYES]]></title>
+            <link>https://mirrorsea.xyz//read/nine-eyes</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[24 // DR. ZHANG PEIFENG]]></title>
+            <link>https://mirrorsea.xyz//read/dr-zhang-peifeng</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25 // THE SEA AT NIGHT]]></title>
+            <link>https://mirrorsea.xyz//read/the-sea-at-night</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[26 // KER-THOINK]]></title>
+            <link>https://mirrorsea.xyz//read/ker-thoink</link>
+            <guid>https://mirrorsea.xyz/{url}</guid>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

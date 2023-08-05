@@ -1,0 +1,165 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Upon the Mirror Sea",
+    "home_page_url": "https://mirrorsea.xyz",
+    "description": "A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.",
+    "icon": "https://mirrorsea.xyz/cover.png",
+    "items": [
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/neikonaut",
+            "title": "1 // NEIKONAUT",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/this-is-loop-lock",
+            "title": "2 // THIS IS LOOP-LOCK",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/inversion",
+            "title": "3 // INVERSION",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/in-the-hall-of-eggs",
+            "title": "4 // IN THE HALL OF EGGS",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/decline-to-say",
+            "title": "5 // DECLINE TO SAY",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/the-ziplock-queen-of-floor-zero",
+            "title": "6 // THE ZIPLOCK QUEEN OF FLOOR ZERO",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/the-mirror-sea",
+            "title": "7 // THE MIRROR SEA",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/what-goes",
+            "title": "8 // WHAT GOES",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/applications-to-soberware",
+            "title": "9 // APPLICATIONS TO SOBERWARE",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/up-must",
+            "title": "10 // UP MUST",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/night-to-night",
+            "title": "11 // NIGHT TO NIGHT",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/double-descent",
+            "title": "12 // DOUBLE DESCENT",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/so-below",
+            "title": "13 // SO BELOW",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/come-down",
+            "title": "14 // COME DOWN",
+            "date_modified": "2023-06-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/a-little-bit-of-paperwork",
+            "title": "15 // A LITTLE BIT OF PAPERWORK",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/cai",
+            "title": "16 // CAI",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/spelunking",
+            "title": "17 // SPELUNKING",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/causal-incursion",
+            "title": "18 // CAUSAL INCURSION",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/into-the-soup",
+            "title": "19 // INTO THE SOUP",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/material-110",
+            "title": "20 // MATERIAL #110",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/a-round-and-innocuous-thing",
+            "title": "21 // A ROUND AND INNOCUOUS THING",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/hyperlagmites",
+            "title": "22 // HYPERLAGMITES",
+            "date_modified": "2023-07-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/nine-eyes",
+            "title": "23 // NINE-EYES",
+            "date_modified": "2023-08-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/dr-zhang-peifeng",
+            "title": "24 // DR. ZHANG PEIFENG",
+            "date_modified": "2023-08-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/the-sea-at-night",
+            "title": "25 // THE SEA AT NIGHT",
+            "date_modified": "2023-08-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://mirrorsea.xyz/{url}",
+            "url": "https://mirrorsea.xyz//read/ker-thoink",
+            "title": "26 // KER-THOINK",
+            "date_modified": "2023-08-05T00:00:00.000Z"
+        }
+    ]
+}
