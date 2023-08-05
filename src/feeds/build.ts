@@ -41,11 +41,16 @@ const main = async () => {
         const { number } = getChapterDetails(chapters, slug);
         const url = chapterUrl(chapter);
         const content = loadChapterContents(chapter);
+        const date = new Date(publicationDate);
+        // Many chapters have the same publication date
+        // This hack ensures chapters are chronologically ordered
+        date.setSeconds(number);
+        console.log(date);
         feed.addItem({
             title: `${number} // ${title}`.toUpperCase(),
             id: `${baseUrl}${url}`,
             link: `${baseUrl}${url}`,
-            date: new Date(publicationDate),
+            date,
             content,
         });
     }
