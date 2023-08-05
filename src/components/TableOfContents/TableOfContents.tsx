@@ -33,6 +33,7 @@ export const TableOfContents = (props: Props) => {
             metadata: {},
             kind: "chapter",
             slug: "",
+            publicationDate: "1999-12-31",
             children: [],
         };
         return (

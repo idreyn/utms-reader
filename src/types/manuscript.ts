@@ -12,6 +12,7 @@ export type Chapter = ManupscriptBaseElement & {
     kind: "chapter";
     slug: string;
     number: number;
+    publicationDate: string;
     children: Section[];
 };
 

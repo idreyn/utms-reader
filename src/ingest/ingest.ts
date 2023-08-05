@@ -146,6 +146,7 @@ const ingestManuscriptElement = (
                 title,
                 slug,
                 metadata,
+                publicationDate: metadata["publicationDate"],
                 number: counter("chapter"),
                 children: childSections,
             };
@@ -171,9 +172,10 @@ const ingestManuscriptElement = (
         return {
             src,
             kind,
-            metadata,
             title,
             slug,
+            metadata,
+            publicationDate: metadata["publicationDate"],
             number: counter("chapter"),
             children: [],
         };

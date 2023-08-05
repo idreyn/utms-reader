@@ -3,6 +3,7 @@ import { Space_Mono } from "next/font/google";
 import classNames from "classnames";
 
 import { ThemeProvider } from "@/components";
+import { bookMetadata } from "@/utils";
 
 import "./globals.css";
 import "katex/dist/katex.min.css";
@@ -17,18 +18,15 @@ const bodyFont = Space_Mono({
     display: "swap",
 });
 
-const title = "Upon the Mirror Sea";
-
-const description =
-    "A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.";
+const { title, description, coverImage, baseUrl } = bookMetadata;
 
 export const metadata: Metadata = {
     title,
     description,
-    metadataBase: new URL("https://mirrorsea.xyz"),
+    metadataBase: new URL(baseUrl),
     openGraph: {
         title,
-        images: ["cover.png"],
+        images: [coverImage],
         description,
     },
     twitter: {

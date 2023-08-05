@@ -2,8 +2,9 @@ import fs from "fs";
 import path from "path";
 import { parse as parseHtml } from "node-html-parser";
 
-import { Chapter, Manuscript } from "@/types";
+import { Chapter, ChapterDetails, Manuscript } from "@/types";
 import { transformHtml } from "./transform";
+import { findManuscriptElements } from "./helpers";
 
 let loaded: null | Manuscript = null;
 
@@ -30,4 +31,22 @@ export const loadManuscriptJson = (): Manuscript => {
         loaded = manuscriptJson;
     }
     return loaded as Manuscript;
+};
+
+export const getChapters = (manuscript: Manuscript): Chapter[] => {
+    return findManuscriptElements(
+        manuscript,
+        (el) => el.kind === "chapter",
+    ) as Chapter[];
+};
+
+export const getChapterDetails = (
+    chapters: Chapter[],
+    slug: string,
+): ChapterDetails => {
+    const index = chapters.findIndex((chapter) => chapter.slug === slug);
+    const current = chapters[index];
+    const next = chapters[index + 1] ?? null;
+    const previous = chapters[index - 1] ?? null;
+    return { current, next, previous, number: 1 + index };
 };

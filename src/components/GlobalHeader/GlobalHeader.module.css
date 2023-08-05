@@ -11,6 +11,11 @@
     text-transform: uppercase;
 }
 
-.title a {
+.globalHeader a {
     color: currentColor !important;
+}
+
+.icons {
+    display: flex;
+    gap: 4px;
 }
