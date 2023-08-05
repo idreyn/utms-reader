@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mirrorsea.xyz</id>
     <title>Upon the Mirror Sea</title>
-    <updated>2023-08-05T23:10:00.682Z</updated>
+    <updated>2023-08-05T23:12:42.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mirrorsea.xyz"/>
     <subtitle>A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.</subtitle>
@@ -11,8 +11,8 @@
     <rights>© 2023 by @phaseborn</rights>
     <entry>
         <title type="html"><![CDATA[1 // NEIKONAUT]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/neikonaut"/>
+        <id>https://mirrorsea.xyz/read/neikonaut</id>
+        <link href="https://mirrorsea.xyz/read/neikonaut"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Everyone in Shanghai knows what a neikonaut looks like.</p>
@@ -75,8 +75,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2 // THIS IS LOOP-LOCK]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/this-is-loop-lock"/>
+        <id>https://mirrorsea.xyz/read/this-is-loop-lock</id>
+        <link href="https://mirrorsea.xyz/read/this-is-loop-lock"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">For one moment, I'm soaring over a vast, hyperbolic horizon — just enjoying the sensation of forgotten senses coming online and background caches warming to full. I limber up, becoming a ring through which I pass a sphere, which bursts spiky with my heartbeat until it becomes a polyhedron that tessellates across a hyperplane, which I slice into countless layers, overlaying them into a mosaic stretched across my inner light, through which an almost heartbreakingly beautiful proof of the four-color theorem shines. I swoop downwards into a thicket of tubular combinators, piping them together into a machine that rumbles and churns and ejects Merseinne primes like psychedelic parade floats. Okay, still a little stiff, but I'm satisfied that I'm not going to fry myself with a misfired tail call. I push harder on the throttle at the edge of my awareness, retracting my hundreds of appendages into something speedy and compact, and slam through a wall that I just willed into existence like a raindrop hitting a pond.</p>
@@ -127,8 +127,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[3 // INVERSION]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/inversion"/>
+        <id>https://mirrorsea.xyz/read/inversion</id>
+        <link href="https://mirrorsea.xyz/read/inversion"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">The neikotic debris at the center of Mbetethi’s mind is enormous, but the first thing I notice is its structure at the smallest scale. It’s made of the same jagged tilestuff as its roots, congealed and slower-moving. Its vocabulary of shapes is all sawscrew-corktooth irregularity. Its motion is crepuscular, half-signifying, golden-meaning and onyx-madness. It threatens at once to lash out with its roots, or coil into the interlocking, gyrating Fibonacci spirals that play along its surface. It crawls all over itself.</p>
@@ -190,8 +190,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[4 // IN THE HALL OF EGGS]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/in-the-hall-of-eggs"/>
+        <id>https://mirrorsea.xyz/read/in-the-hall-of-eggs</id>
+        <link href="https://mirrorsea.xyz/read/in-the-hall-of-eggs"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">“Welcome back,” calls Dr. Deng from across the Neikotic Safety floor. Which is odd, because she’s the one who’s been away. One conference after another — I’ve barely seen her all summer. “Let’s take a walk?”</p>
@@ -255,8 +255,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[5 // DECLINE TO SAY]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/decline-to-say"/>
+        <id>https://mirrorsea.xyz/read/decline-to-say</id>
+        <link href="https://mirrorsea.xyz/read/decline-to-say"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1"><span class="s1">There was no Neikotic Safety clinic at YINS until the year I arrived. </span><span class="s2">So how it already seems so timelessly dingy downstairs beggars belief. <i>Someone</i> had to choose these low ceilings, this distressingly creamy paint color, these oddly faithful LED simulacra of fluorescent bulbs. It was presumably someone else who then decided to deck it out like a Palo Alto strip-mall spa, with bonsai plants, little self-contained waterfalls, and beaded curtains where in my opinion there should be doors. Dr. Deng has nicked half a dozen salt lamps from down here — first for her office and later, I suspect, as last-minute birthday gifts — and yet more continue to appear. Sunk deep into a fat couch in the lounge one day, Yao finally figured it out: the instructions had, naturally, been to decorate for a psychedelic therapy clinic.</span></p>
@@ -335,8 +335,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[6 // THE ZIPLOCK QUEEN OF FLOOR ZERO]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/the-ziplock-queen-of-floor-zero"/>
+        <id>https://mirrorsea.xyz/read/the-ziplock-queen-of-floor-zero</id>
+        <link href="https://mirrorsea.xyz/read/the-ziplock-queen-of-floor-zero"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1"><span class="s1">Over email, and well into the early morning, Yao treats me to more theories on the source of the new debris. But turning them over, I find they all omit a key figure. It was inside Mbetethi Okeme’s mind that I had computed the inversion, and I try inserting him into Yao’s gradually more unhinged speculations to see how he fits. Had he stolen the egg from one of Suowei’s honeypots? Was he leaving it outside the Suowei Tower for their more gullible neikonauts to find? The rhythm of Mbetethi’s tiles buzzes into my half-sleep, and I wake from a frantic sense of trying to match them, to write loops and build monads in his logic. We <i>conversed</i> in there, I could be sure of it — or at least, he spoke to the part of me that had crossed into him via the Bridge. Maybe he explained the egg quite clearly in there. But whatever he said, it’s now lost to me across two yawning chasms — one between waking life and loop-lock, and another between myself and the diving-bell.</span></p>
@@ -402,8 +402,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[7 // THE MIRROR SEA]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/the-mirror-sea"/>
+        <id>https://mirrorsea.xyz/read/the-mirror-sea</id>
+        <link href="https://mirrorsea.xyz/read/the-mirror-sea"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1"><span class="s1">I shouldn’t be thinking about the Mirror Sea at all. They gave me pills to take if I start.</span></p>
@@ -453,8 +453,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[8 // WHAT GOES]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/what-goes"/>
+        <id>https://mirrorsea.xyz/read/what-goes</id>
+        <link href="https://mirrorsea.xyz/read/what-goes"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">The Yangtze Delta Orthogonal Zone was to China what California had become to the United States. Great powers inside great powers, doves growing fat in the bellies of hawks, surprise twins. Neither wanted war. More to the point: neither wanted to be militarized, to be made a target for the other. Both the blue delta and the golden coast had wriggled and convulsed right up to the brink of sovereignty. Both now dangled from their motherlands by tense threads, the parallels uncanny, the details a mess. In San Francisco, in bombed-out China Daily newsboxes, I saw Xia Zitian’s name in three-inch print. I understood that in Shanghai the fiasco with the cameras had tipped the balance somehow.</p>
@@ -490,8 +490,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[9 // APPLICATIONS TO SOBERWARE]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/applications-to-soberware"/>
+        <id>https://mirrorsea.xyz/read/applications-to-soberware</id>
+        <link href="https://mirrorsea.xyz/read/applications-to-soberware"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Another rainy morning finds me knocking on Dr. Rui’s office door.</p>
@@ -534,8 +534,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[10 // UP MUST]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/up-must"/>
+        <id>https://mirrorsea.xyz/read/up-must</id>
+        <link href="https://mirrorsea.xyz/read/up-must"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1"><span class="s1">I entered Cai’s tilespace, and inverted her Tenfold Gate debris on the first try. Sitting upright in parallel scanner beds, the memory of what happened in there was already gone. But that was just sandcastles. The expression of clarity and relief on her face, that’s where I could have lived forever. The tryptamine remnants were beep-buzzing tunelessly, muttering crazy things in my ear. </span><span class="s2"><i>I never knew my own cells</i>: every one a treasure filled with treasures filled with treasures, a translucent iridescent music box, transcription whirring away in frenzied melodies, the taut and sensual ritual of mitosis. <i>I never knew my own mind</i>: all those layers never peeled back, all those unknown corners never turned. But Cai Yuhui did. For ten seconds the image of me that existed inside her was realer than I was. The locus of myself was in her eyes.</span></p>
@@ -571,8 +571,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[11 // NIGHT TO NIGHT]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/night-to-night"/>
+        <id>https://mirrorsea.xyz/read/night-to-night</id>
+        <link href="https://mirrorsea.xyz/read/night-to-night"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">And that’s what I wake from at half past midnight this third night, sheets wrapped around me, channels buzzing deliciously. My boots are still damp, still squeaking, on my way down the stairs. This time I’m not so coy with myself about why I’ve ventured outside. I toe the western boundary of another ward, preparing to tap my card. <i>What you’re looking for isn’t in Xietu South,</i> I admit to myself. <i>That’s why you moved here, remember?</i></p>
@@ -609,8 +609,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[12 // DOUBLE DESCENT]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/double-descent"/>
+        <id>https://mirrorsea.xyz/read/double-descent</id>
+        <link href="https://mirrorsea.xyz/read/double-descent"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">In the scant years that such a thing has been possible, Double Descent has accreted a reputation as a neikonaut bar. It did so by pioneering the benzodiazepine soda, an oh-what-the-hell last resort for candlestick cadets who had spent all day in loop-lock with a Bloomberg terminal and desperately needed the walls to stop moving. And for those who want the walls to <i>start</i> moving, tourists one step off the Bund seeking a righteously authentic place to try their first psychedelic, there are taps of guangpan<i> </i>and qingting nestled among the IPAs. Doled out stingily unless you know how to ask.</p>
@@ -708,8 +708,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[13 // SO BELOW]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/so-below"/>
+        <id>https://mirrorsea.xyz/read/so-below</id>
+        <link href="https://mirrorsea.xyz/read/so-below"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Down.</p>
@@ -754,8 +754,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[14 // COME DOWN]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/come-down"/>
+        <id>https://mirrorsea.xyz/read/come-down</id>
+        <link href="https://mirrorsea.xyz/read/come-down"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">It was gone. It was gone. It was in the chalk and the feeds and the texture of time itself, and then it was simply gone. All day I’d been outside looking for it: the sigil on the wall of it, the knowing glance of it. It was gone, I realized, from Cai’s feed. April was becoming May, Shanghai was heating up. Something new groaned in the loam, waiting to be born. <i>The city was no longer a coral reef.</i> Nothing lives forever, much less a Ripple. Where was Cai?</p>
@@ -770,8 +770,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[15 // A LITTLE BIT OF PAPERWORK]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/a-little-bit-of-paperwork"/>
+        <id>https://mirrorsea.xyz/read/a-little-bit-of-paperwork</id>
+        <link href="https://mirrorsea.xyz/read/a-little-bit-of-paperwork"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Once in the backseat, age twelve or so and bored to death by the Pacific Coast Highway, I saw a UFO. I remember two phosphorically bright balls spinning around each other on a fixed axis, hurtling away from the night. <i>Mom! Dad! </i>But by the time I had their attention, it was lost in the sunset. At the time the Air Force was still overflying California, slow-rolling down the street like a jealous ex, but with <i>that?</i> My mind reeled over the implications. I was certain this would upend my whole impression of the cosmos, soft as it still was. And then I took a brief nap. Fifteen minutes later I was on my phone, and the UFO was something that had happened to someone else.</p>
@@ -810,8 +810,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[16 // CAI]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/cai"/>
+        <id>https://mirrorsea.xyz/read/cai</id>
+        <link href="https://mirrorsea.xyz/read/cai"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">“Mona,” Cai says, falling-rising. And I feel the spring-load of the moment, the outrush of months of coiled potential energy. But now, crushing devastation: in her eyes I see the same mechanism fail to fire. Nothing was leading up to this. She never wondered what this moment would be like. I am a problem to be solved. Yue Fang looks at me, then at her, and after trying to broker a pleasantry or two decides she really needs to file those drives.</p>
@@ -847,8 +847,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[17 // SPELUNKING]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/spelunking"/>
+        <id>https://mirrorsea.xyz/read/spelunking</id>
+        <link href="https://mirrorsea.xyz/read/spelunking"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">In Weather Bureau custody, one of the interchangeable men had steered me down an interchangeable hallway to a room with dark walls instead of white. Properly speaking there was no lighting at all in there. A woman sat on the floor, surely uncomfortable, cross-legged in her pantsuit. She gestured for me to take a seat and the door clicked behind me. No light bled in from around it.</p>
@@ -878,8 +878,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[18 // CAUSAL INCURSION]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/causal-incursion"/>
+        <id>https://mirrorsea.xyz/read/causal-incursion</id>
+        <link href="https://mirrorsea.xyz/read/causal-incursion"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">There is a commotion brewing outside the Dong’an metro station the next day as I’m heading to campus. Redlights and bluelights came to placate the crowd, but of course now they’re bickering with each other: a xiangsheng self-parody of relations between the wards and Blue Delta. The gate attendants look on haplessly from behind reinforced glass.</p>
@@ -942,8 +942,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[19 // INTO THE SOUP]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/into-the-soup"/>
+        <id>https://mirrorsea.xyz/read/into-the-soup</id>
+        <link href="https://mirrorsea.xyz/read/into-the-soup"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Deng’s making a show of it. As I pull up a cafeteria chair, she slides me a heavy sheet of paper marked up in her own hand, in tight blue ink — even her handwriting has good posture. It’s the same set of nine equations she showed me earlier. Or very nearly so. She smiles.</p>
@@ -1033,8 +1033,8 @@ Xu Maoli (xu.mona@yins.edu); Deng Jinghan (deng@yins.edu)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[20 // MATERIAL #110]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/material-110"/>
+        <id>https://mirrorsea.xyz/read/material-110</id>
+        <link href="https://mirrorsea.xyz/read/material-110"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Sunflower mania grips Shanghai.</p>
@@ -1096,8 +1096,8 @@ Xu Maoli (xu.mona@yins.edu); Deng Jinghan (deng@yins.edu)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[21 // A ROUND AND INNOCUOUS THING]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/a-round-and-innocuous-thing"/>
+        <id>https://mirrorsea.xyz/read/a-round-and-innocuous-thing</id>
+        <link href="https://mirrorsea.xyz/read/a-round-and-innocuous-thing"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">What happens to me next?</p>
@@ -1151,8 +1151,8 @@ Xu Maoli (xu.mona@yins.edu); Deng Jinghan (deng@yins.edu)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[22 // HYPERLAGMITES]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/hyperlagmites"/>
+        <id>https://mirrorsea.xyz/read/hyperlagmites</id>
+        <link href="https://mirrorsea.xyz/read/hyperlagmites"/>
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Sunflower-I. <i>Sunflower One.</i></p>
@@ -1295,8 +1295,8 @@ YINS, YDOZ, China</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[23 // NINE-EYES]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/nine-eyes"/>
+        <id>https://mirrorsea.xyz/read/nine-eyes</id>
+        <link href="https://mirrorsea.xyz/read/nine-eyes"/>
         <updated>2023-08-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">When I told Dr. Zhang that I wanted to meet in a public place, this isn’t exactly what I had in mind.</p>
@@ -1340,8 +1340,8 @@ YINS, YDOZ, China</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[24 // DR. ZHANG PEIFENG]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/dr-zhang-peifeng"/>
+        <id>https://mirrorsea.xyz/read/dr-zhang-peifeng</id>
+        <link href="https://mirrorsea.xyz/read/dr-zhang-peifeng"/>
         <updated>2023-08-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">Making conversation one night, I asked Cai — Shanghai born and rasied — to explain the city’s ward system. So she fetched a ceramic bowl from the cabinet, raised it head-height, and dropped it to the floor. Against the guarantees of the Japanese omni-mart that sold it to me, it shattered into dozens of pieces. She held one pastel-toned shard up to the kitchen’s track lighting. “This piece, was it created just now? Or maybe it always existed in the bowl? Maybe I just released it?” She raised an eyebrow ever so meaningfully and I stared back, dumbfounded. I only had three bowls now. “That’s the thing no one can agree on.”</p>
@@ -1387,8 +1387,8 @@ YINS, YDOZ, China</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[25 // THE SEA AT NIGHT]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/the-sea-at-night"/>
+        <id>https://mirrorsea.xyz/read/the-sea-at-night</id>
+        <link href="https://mirrorsea.xyz/read/the-sea-at-night"/>
         <updated>2023-08-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">I can feel it, the weight of it, just behind the prickle of the last primer tiles. And I have maybe a second to reflect on what I thought would happen to me here. I assumed that tiling into the Mirror Sea would be like stepping into one of the displays, floating peacefully and serenely through its higher dimensions, easier than scuba diving. Instead, <i>this.</i> I thumb the allocator switch: a heady, crunchy thrum of glossy red-and-yellow tiles, my mind unfurling, more mind than I remember. Then a firehose of raw data hits me square in the plexus and just keeps coming. Sawtooth panic, grasping at the jetstream with chicken-claw-claws. Feeling trolleys, alley cats, garbage bins, hats, a million such snatches a second, adding up to nothing, lasting no time at all. I feel for the emergency shutdown…</p>
@@ -1421,8 +1421,8 @@ YINS, YDOZ, China</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[26 // KER-THOINK]]></title>
-        <id>https://mirrorsea.xyz/{url}</id>
-        <link href="https://mirrorsea.xyz//read/ker-thoink"/>
+        <id>https://mirrorsea.xyz/read/ker-thoink</id>
+        <link href="https://mirrorsea.xyz/read/ker-thoink"/>
         <updated>2023-08-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<section>
 <p class="p1">“Let me see it,” I shout when I come down, flipping up the hood, ripping out the tube. “Let me —”</p>

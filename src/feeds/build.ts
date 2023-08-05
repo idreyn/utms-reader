@@ -43,8 +43,8 @@ const main = async () => {
         const content = loadChapterContents(chapter);
         feed.addItem({
             title: `${number} // ${title}`.toUpperCase(),
-            id: `${baseUrl}/{url}`,
-            link: `${baseUrl}/${url}`,
+            id: `${baseUrl}${url}`,
+            link: `${baseUrl}${url}`,
             date: new Date(publicationDate),
             content,
         });
