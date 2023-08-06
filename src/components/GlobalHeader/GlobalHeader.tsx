@@ -18,7 +18,7 @@ export const GlobalHeader = () => {
                 <a
                     href="/rss.xml"
                     style={{ height: iconSize }}
-                    title="RSS Feed"
+                    title="RSS feed"
                 >
                     <MdRssFeed size={iconSize} />
                 </a>

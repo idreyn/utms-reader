@@ -42,7 +42,7 @@ export const ThemeToggle = (props: Props) => {
 
     return (
         <button
-            aria-label={theme === "dark" ? "Light mode" : "Dark mode"}
+            title={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
             className={styles.button}
             disabled={hidden}
             onClick={toggleTheme}

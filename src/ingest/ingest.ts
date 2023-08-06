@@ -124,6 +124,9 @@ const ingestManuscriptElement = (
                     depth + 1,
                 ),
             );
+        if (metadata.unpublished && !includeUnpublished) {
+            return null;
+        }
         if (kind === "manuscript") {
             const validChildren = children.filter(
                 (child): child is Chapter | Part =>
@@ -152,9 +155,6 @@ const ingestManuscriptElement = (
             };
         }
         const childChapters = children.filter(isChapter);
-        if (metadata.unpublished && !includeUnpublished) {
-            return null;
-        }
         return {
             src,
             kind,
@@ -167,6 +167,9 @@ const ingestManuscriptElement = (
     const kind: ManuscriptElementKind = depth > 0 ? "section" : "chapter";
     const metadata = ingestMetadataForHtml(src);
     const title = metadata["Title"] || extractTitle(src);
+    if (metadata.unpublished && !includeUnpublished) {
+        return null;
+    }
     if (kind === "chapter") {
         const slug = slugify(title);
         return {

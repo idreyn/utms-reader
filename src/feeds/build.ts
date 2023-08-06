@@ -45,7 +45,6 @@ const main = async () => {
         // Many chapters have the same publication date
         // This hack ensures chapters are chronologically ordered
         date.setSeconds(number);
-        console.log(date);
         feed.addItem({
             title: `${number} // ${title}`.toUpperCase(),
             id: `${baseUrl}${url}`,
