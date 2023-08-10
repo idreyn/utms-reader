@@ -706,7 +706,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 2, 2023 at 12:04 PM",
-                                "Modified": "July 20, 2023 at 10:36 PM",
+                                "Modified": "August 9, 2023 at 9:23 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1072,7 +1072,7 @@
             "number": 4,
             "children": [
                 {
-                    "src": "manuscript/4 Parallax/1 Nine-Eyes",
+                    "src": "manuscript/4 Parallax/01 Nine-Eyes",
                     "kind": "chapter",
                     "title": "Nine-Eyes",
                     "slug": "nine-eyes",
@@ -1090,7 +1090,7 @@
                     "number": 23,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/1 Nine-Eyes/1 Waiting for Dr. Zhang.html",
+                            "src": "manuscript/4 Parallax/01 Nine-Eyes/1 Waiting for Dr. Zhang.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 31, 2023 at 9:54 AM",
@@ -1104,7 +1104,7 @@
                             "title": "Waiting for Dr. Zhang"
                         },
                         {
-                            "src": "manuscript/4 Parallax/1 Nine-Eyes/2 Mona handles a camera.html",
+                            "src": "manuscript/4 Parallax/01 Nine-Eyes/2 Mona handles a camera.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 1, 2023 at 2:49 PM",
@@ -1120,7 +1120,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng",
+                    "src": "manuscript/4 Parallax/02 Dr. Zhang Peifeng",
                     "kind": "chapter",
                     "title": "Dr. Zhang Peifeng",
                     "slug": "dr-zhang-peifeng",
@@ -1138,7 +1138,7 @@
                     "number": 24,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/1 A very brief digression.html",
+                            "src": "manuscript/4 Parallax/02 Dr. Zhang Peifeng/1 A very brief digression.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 1, 2023 at 2:50 PM",
@@ -1152,7 +1152,7 @@
                             "title": "A very brief digression"
                         },
                         {
-                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/2 Mona and Tethi talk.html",
+                            "src": "manuscript/4 Parallax/02 Dr. Zhang Peifeng/2 Mona and Tethi talk.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 3, 2023 at 3:15 PM",
@@ -1166,7 +1166,7 @@
                             "title": "Mona and Tethi talk"
                         },
                         {
-                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/3 Down the street.html",
+                            "src": "manuscript/4 Parallax/02 Dr. Zhang Peifeng/3 Down the street.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 1, 2023 at 2:50 PM",
@@ -1182,7 +1182,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/3 The Sea at Night",
+                    "src": "manuscript/4 Parallax/03 The Sea at Night",
                     "kind": "chapter",
                     "title": "The Sea at Night",
                     "slug": "the-sea-at-night",
@@ -1200,11 +1200,11 @@
                     "number": 25,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/3 The Sea at Night/1 Tiling into the sea.html",
+                            "src": "manuscript/4 Parallax/03 The Sea at Night/1 Tiling into the sea.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 10, 2023 at 4:37 PM",
-                                "Modified": "August 6, 2023 at 5:15 PM",
+                                "Modified": "August 6, 2023 at 8:38 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1216,7 +1216,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/4 Ker-thoink",
+                    "src": "manuscript/4 Parallax/04 Ker-thoink",
                     "kind": "chapter",
                     "title": "Ker-thoink",
                     "slug": "ker-thoink",
@@ -1234,7 +1234,7 @@
                     "number": 26,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/4 Ker-thoink/1 Directly afterwards.html",
+                            "src": "manuscript/4 Parallax/04 Ker-thoink/1 Directly afterwards.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 2, 2023 at 7:51 PM",
@@ -1248,7 +1248,7 @@
                             "title": "Directly afterwards"
                         },
                         {
-                            "src": "manuscript/4 Parallax/4 Ker-thoink/2 On the roof.html",
+                            "src": "manuscript/4 Parallax/04 Ker-thoink/2 On the roof.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 3, 2023 at 3:20 PM",
