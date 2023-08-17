@@ -1062,12 +1062,12 @@
             "title": "Parallax",
             "metadata": {
                 "Created": "July 20, 2023 at 9:11 PM",
-                "Modified": "August 5, 2023 at 5:56 PM",
+                "Modified": "August 16, 2023 at 9:33 PM",
                 "Status": "No Status",
                 "Label": "No Label",
                 "Keywords": "",
                 "unpublished": false,
-                "incomplete": true
+                "incomplete": false
             },
             "number": 4,
             "children": [
@@ -1274,6 +1274,204 @@
                                 "incomplete": false
                             },
                             "title": "On the roof"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/05 He Named It After Himself",
+                    "kind": "chapter",
+                    "title": "He Named It After Himself",
+                    "slug": "he-named-it-after-himself",
+                    "metadata": {
+                        "Created": "August 16, 2023 at 8:59 AM",
+                        "Modified": "August 16, 2023 at 9:33 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "publicationDate": "2023-08-16",
+                        "incomplete": false
+                    },
+                    "publicationDate": "2023-08-16",
+                    "number": 27,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/05 He Named It After Himself/1 Birth of the Andre.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 5, 2023 at 9:28 PM",
+                                "Modified": "August 16, 2023 at 3:58 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Birth of the Andre"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/06 Scenes from Triple Point",
+                    "kind": "chapter",
+                    "title": "Scenes from Triple Point",
+                    "slug": "scenes-from-triple-point",
+                    "metadata": {
+                        "Created": "August 5, 2023 at 2:02 PM",
+                        "Modified": "August 16, 2023 at 9:33 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "publicationDate": "2023-08-16",
+                        "incomplete": false
+                    },
+                    "publicationDate": "2023-08-16",
+                    "number": 28,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/1 The Wider Sea.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 7, 2023 at 8:03 AM",
+                                "Modified": "August 16, 2023 at 3:42 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "The Wider Sea"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/2 Watch the counter.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 6, 2023 at 11:28 AM",
+                                "Modified": "August 16, 2023 at 9:10 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Watch the counter"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/3 Forum posts.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 7, 2023 at 7:17 AM",
+                                "Modified": "August 16, 2023 at 3:44 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Forum posts"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/07 Nightmarket",
+                    "kind": "chapter",
+                    "title": "Nightmarket",
+                    "slug": "nightmarket",
+                    "metadata": {
+                        "Created": "August 8, 2023 at 10:34 AM",
+                        "Modified": "August 16, 2023 at 9:33 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "publicationDate": "2023-08-16",
+                        "incomplete": false
+                    },
+                    "publicationDate": "2023-08-16",
+                    "number": 29,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/07 Nightmarket/1 Nightmarket.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 7, 2023 at 7:40 AM",
+                                "Modified": "August 16, 2023 at 3:46 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Nightmarket"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/08 Mid-Autumn",
+                    "kind": "chapter",
+                    "title": "Mid-Autumn",
+                    "slug": "mid-autumn",
+                    "metadata": {
+                        "Created": "August 8, 2023 at 10:38 AM",
+                        "Modified": "August 16, 2023 at 9:32 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "publicationDate": "2023-08-16",
+                        "incomplete": false
+                    },
+                    "publicationDate": "2023-08-16",
+                    "number": 30,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/08 Mid-Autumn/1 Confronting Deng.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 8, 2023 at 10:39 AM",
+                                "Modified": "August 16, 2023 at 3:34 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Confronting Deng"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/09 How You Repay Me",
+                    "kind": "chapter",
+                    "title": "How You Repay Me",
+                    "slug": "how-you-repay-me",
+                    "metadata": {
+                        "Created": "August 9, 2023 at 11:36 AM",
+                        "Modified": "August 16, 2023 at 9:32 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "publicationDate": "2023-08-16",
+                        "incomplete": false
+                    },
+                    "publicationDate": "2023-08-16",
+                    "number": 31,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/09 How You Repay Me/1 Rui comes clean.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 9, 2023 at 10:26 AM",
+                                "Modified": "August 16, 2023 at 9:32 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Rui comes clean"
                         }
                     ]
                 }
