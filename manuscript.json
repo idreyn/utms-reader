@@ -607,7 +607,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 1, 2023 at 11:54 AM",
-                                "Modified": "August 7, 2023 at 9:00 PM",
+                                "Modified": "August 16, 2023 at 8:49 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -621,7 +621,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "March 2, 2023 at 12:01 PM",
-                                "Modified": "August 7, 2023 at 9:00 PM",
+                                "Modified": "August 16, 2023 at 8:49 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1090,11 +1090,25 @@
                     "number": 23,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/01 Nine-Eyes/1 Waiting for Dr. Zhang.html",
+                            "src": "manuscript/4 Parallax/01 Nine-Eyes/1 Introduction.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 31, 2023 at 9:54 AM",
-                                "Modified": "August 7, 2023 at 1:47 PM",
+                                "Modified": "August 16, 2023 at 4:42 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Introduction"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/01 Nine-Eyes/2 Waiting for Dr. Zhang.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "August 16, 2023 at 4:39 PM",
+                                "Modified": "August 16, 2023 at 4:39 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1104,7 +1118,7 @@
                             "title": "Waiting for Dr. Zhang"
                         },
                         {
-                            "src": "manuscript/4 Parallax/01 Nine-Eyes/2 Mona handles a camera.html",
+                            "src": "manuscript/4 Parallax/01 Nine-Eyes/3 Mona handles a camera.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 1, 2023 at 2:49 PM",
@@ -1252,7 +1266,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 3, 2023 at 3:20 PM",
-                                "Modified": "August 7, 2023 at 8:18 PM",
+                                "Modified": "August 16, 2023 at 4:40 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
