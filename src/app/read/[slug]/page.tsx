@@ -33,6 +33,7 @@ export const generateMetadata = (props: Props): Metadata => {
         title,
         twitter: {
             title,
+            card: "summary_large_image",
         },
         openGraph: {
             title,
