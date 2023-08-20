@@ -4,13 +4,13 @@
         <title>Upon the Mirror Sea</title>
         <link>https://mirrorsea.xyz</link>
         <description>A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.</description>
-        <lastBuildDate>Sun, 20 Aug 2023 12:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 13:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
             <title>Upon the Mirror Sea</title>
-            <url>https://mirrorsea.xyz/covers/sieve.png</url>
+            <url>https://mirrorsea.xyz/covers/displays.png</url>
             <link>https://mirrorsea.xyz</link>
         </image>
         <copyright>© 2023 by @phaseborn</copyright>

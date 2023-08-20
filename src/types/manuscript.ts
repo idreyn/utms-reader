@@ -13,6 +13,7 @@ export type Chapter = ManupscriptBaseElement & {
     slug: string;
     number: number;
     publicationDate: string;
+    coverImage: string;
     children: Section[];
 };
 

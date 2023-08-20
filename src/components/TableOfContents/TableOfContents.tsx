@@ -34,6 +34,7 @@ export const TableOfContents = (props: Props) => {
             kind: "chapter",
             slug: "",
             publicationDate: "1999-12-31",
+            coverImage: "",
             children: [],
         };
         return (

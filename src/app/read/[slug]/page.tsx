@@ -1,4 +1,5 @@
 import React from "react";
+import { Metadata } from "next";
 
 import {
     loadChapterContents,
@@ -8,6 +9,7 @@ import {
 } from "@/ingest";
 import { ChapterDetails } from "@/types";
 import { Chapter } from "@/components";
+import { bookMetadata } from "@/utils";
 
 type Props = {
     params: {
@@ -21,13 +23,22 @@ const getCurrentChapterDetails = (slug: string): ChapterDetails => {
     return getChapterDetails(chapters, slug);
 };
 
-export const generateMetadata = (props: Props) => {
+export const generateMetadata = (props: Props): Metadata => {
     const {
         params: { slug },
     } = props;
     const { current, number } = getCurrentChapterDetails(slug);
+    const title = `${number} // ${current.title}`.toUpperCase();
     return {
-        title: `${number}: ${current.title}`,
+        title,
+        twitter: {
+            title,
+        },
+        openGraph: {
+            title,
+            description: bookMetadata.fullSentenceDescription,
+            images: [current.coverImage || bookMetadata.coverImage],
+        },
     };
 };
 

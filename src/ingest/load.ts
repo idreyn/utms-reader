@@ -48,5 +48,10 @@ export const getChapterDetails = (
     const current = chapters[index];
     const next = chapters[index + 1] ?? null;
     const previous = chapters[index - 1] ?? null;
-    return { current, next, previous, number: 1 + index };
+    return {
+        current,
+        next,
+        previous,
+        number: 1 + index,
+    };
 };

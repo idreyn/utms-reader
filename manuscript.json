@@ -1078,14 +1078,16 @@
                     "slug": "nine-eyes",
                     "metadata": {
                         "Created": "August 1, 2023 at 2:48 PM",
-                        "Modified": "August 5, 2023 at 6:43 PM",
+                        "Modified": "August 20, 2023 at 9:21 AM",
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
                         "unpublished": false,
+                        "coverImage": "covers/sieve.png",
                         "publicationDate": "2023-08-05",
                         "incomplete": false
                     },
+                    "coverImage": "covers/sieve.png",
                     "publicationDate": "2023-08-05",
                     "number": 23,
                     "children": [
