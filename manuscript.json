@@ -36,7 +36,50 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 1,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/1 Neikonaut/1 Neikonaut/1 Introduction.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "July 1, 2022 at 12:50 PM",
+                                "Modified": "June 5, 2023 at 10:40 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Introduction"
+                        },
+                        {
+                            "src": "manuscript/1 Neikonaut/1 Neikonaut/2 Meeting Mbetethi.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 26, 2023 at 12:25 PM",
+                                "Modified": "August 9, 2023 at 9:42 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Meeting Mbetethi"
+                        },
+                        {
+                            "src": "manuscript/1 Neikonaut/1 Neikonaut/3 Tiling in.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 29, 2023 at 2:18 PM",
+                                "Modified": "May 29, 2023 at 3:50 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Tiling in"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/1 Neikonaut/2 This is Loop-Lock",
@@ -55,7 +98,22 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 2,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/1 Neikonaut/2 This is Loop-Lock/1 Bumping around in there.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "January 15, 2023 at 10:48 AM",
+                                "Modified": "June 14, 2023 at 9:21 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Bumping around in there"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/1 Neikonaut/3 Inversion",
@@ -74,7 +132,36 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 3,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/1 Neikonaut/3 Inversion/1 Destroying the debris.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 1, 2023 at 10:40 PM",
+                                "Modified": "July 11, 2023 at 3:04 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Destroying the debris"
+                        },
+                        {
+                            "src": "manuscript/1 Neikonaut/3 Inversion/2 Tiling out.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 29, 2023 at 3:01 PM",
+                                "Modified": "May 29, 2023 at 3:02 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Tiling out"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/1 Neikonaut/4 In the Hall of Eggs",
@@ -93,7 +180,22 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 4,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/1 Neikonaut/4 In the Hall of Eggs/1 In the Hall of Eggs.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 20, 2023 at 1:36 PM",
+                                "Modified": "August 3, 2023 at 8:34 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "In the Hall of Eggs"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/1 Neikonaut/5 Decline to Say",
@@ -112,7 +214,50 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 5,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/1 Neikonaut/5 Decline to Say/1 It's proprietary.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 21, 2023 at 2:53 PM",
+                                "Modified": "June 4, 2023 at 4:04 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "It's proprietary"
+                        },
+                        {
+                            "src": "manuscript/1 Neikonaut/5 Decline to Say/2 Introducing Rui.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 29, 2023 at 2:10 PM",
+                                "Modified": "May 31, 2023 at 9:39 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Introducing Rui"
+                        },
+                        {
+                            "src": "manuscript/1 Neikonaut/5 Decline to Say/3 Case studies.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 29, 2023 at 2:12 PM",
+                                "Modified": "August 3, 2023 at 9:56 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Case studies"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/1 Neikonaut/6 The Ziplock Queen of Floor Zero",
@@ -131,7 +276,36 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 6,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/1 Neikonaut/6 The Ziplock Queen of Floor Zero/1 Deng on rounds.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 29, 2023 at 2:38 PM",
+                                "Modified": "June 3, 2023 at 10:20 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Deng on rounds"
+                        },
+                        {
+                            "src": "manuscript/1 Neikonaut/6 The Ziplock Queen of Floor Zero/2 Familiar shapes.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 22, 2023 at 3:01 PM",
+                                "Modified": "June 14, 2023 at 9:18 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Familiar shapes"
+                        }
+                    ]
                 }
             ]
         },
@@ -167,7 +341,50 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 7,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/1 The Mirror Sea/1 Not thinking about it.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 27, 2023 at 1:06 PM",
+                                "Modified": "June 14, 2023 at 9:17 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Not thinking about it"
+                        },
+                        {
+                            "src": "manuscript/2 Ripplechaser/1 The Mirror Sea/2 Deng won't help.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 24, 2023 at 5:51 PM",
+                                "Modified": "June 15, 2023 at 5:25 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Deng won't help"
+                        },
+                        {
+                            "src": "manuscript/2 Ripplechaser/1 The Mirror Sea/3 Still not thinking about it.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 27, 2023 at 5:26 PM",
+                                "Modified": "August 14, 2023 at 2:05 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Still not thinking about it"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/2 What Goes",
@@ -186,7 +403,22 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 8,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/2 What Goes/1 Living with Cai.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "March 25, 2023 at 7:34 PM",
+                                "Modified": "June 5, 2023 at 12:26 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Living with Cai"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/3 Applications to Soberware",
@@ -205,7 +437,22 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 9,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/3 Applications to Soberware/1 Revelations with Rui.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 31, 2023 at 9:44 AM",
+                                "Modified": "August 14, 2023 at 2:05 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Revelations with Rui"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/4 Up Must",
@@ -224,7 +471,22 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 10,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/4 Up Must/1 RIpplechasing.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "May 31, 2023 at 4:09 PM",
+                                "Modified": "August 14, 2023 at 2:05 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "RIpplechasing"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/5 Night to Night",
@@ -243,7 +505,36 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 11,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/5 Night to Night/1 Not not thinking about it.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 1, 2023 at 1:57 PM",
+                                "Modified": "June 2, 2023 at 10:49 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Not not thinking about it"
+                        },
+                        {
+                            "src": "manuscript/2 Ripplechaser/5 Night to Night/2 A neikonaut collapses.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 6, 2023 at 8:11 AM",
+                                "Modified": "August 14, 2023 at 2:09 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "A neikonaut collapses"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/6 Double Descent",
@@ -262,7 +553,36 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 12,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/6 Double Descent/1 At Double Descent.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 6, 2023 at 8:07 AM",
+                                "Modified": "June 14, 2023 at 9:14 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "At Double Descent"
+                        },
+                        {
+                            "src": "manuscript/2 Ripplechaser/6 Double Descent/2 Confronting Tethi.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 28, 2023 at 10:04 AM",
+                                "Modified": "June 2, 2023 at 11:05 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Confronting Tethi"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/7 So Below",
@@ -281,7 +601,36 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 13,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/7 So Below/1 Chalker tunnels.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "March 1, 2023 at 11:54 AM",
+                                "Modified": "August 16, 2023 at 8:49 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Chalker tunnels"
+                        },
+                        {
+                            "src": "manuscript/2 Ripplechaser/7 So Below/2 Mona sees the DB in the Sea.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "March 2, 2023 at 12:01 PM",
+                                "Modified": "August 16, 2023 at 8:49 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Mona sees the DB in the Sea"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/2 Ripplechaser/8 Come Down",
@@ -300,7 +649,22 @@
                     },
                     "publicationDate": "2023-06-09",
                     "number": 14,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/2 Ripplechaser/8 Come Down/1 Anenome Pop dies.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 2, 2023 at 5:19 PM",
+                                "Modified": "June 4, 2023 at 4:01 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Anenome Pop dies"
+                        }
+                    ]
                 }
             ]
         },
@@ -336,7 +700,36 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 15,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/1 A Little Bit of Paperwork/1 Mona's still losing it.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "March 2, 2023 at 12:04 PM",
+                                "Modified": "August 9, 2023 at 9:23 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Mona's still losing it"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/1 A Little Bit of Paperwork/2 The Observatory.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 12, 2023 at 3:02 PM",
+                                "Modified": "July 20, 2023 at 8:45 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "The Observatory"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/2 Cai",
@@ -355,7 +748,22 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 16,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/2 Cai/1 Reunion with Cai.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "March 4, 2023 at 3:46 PM",
+                                "Modified": "August 6, 2023 at 8:44 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Reunion with Cai"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/3 Spelunking",
@@ -374,7 +782,22 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 17,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/3 Spelunking/1 Belief modulation.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 19, 2023 at 3:26 PM",
+                                "Modified": "July 28, 2023 at 4:10 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Belief modulation"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/4 Causal Incursion",
@@ -393,7 +816,37 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 18,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/4 Causal Incursion/1 Causal incursion.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 9, 2023 at 11:35 AM",
+                                "Modified": "August 5, 2023 at 6:41 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "publicationDate": "2023-07-28",
+                                "incomplete": false
+                            },
+                            "title": "Causal incursion"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/4 Causal Incursion/2 Yao's experiment.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 12, 2023 at 3:05 PM",
+                                "Modified": "August 6, 2023 at 8:44 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Yao's experiment"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/5 Into the Soup",
@@ -412,7 +865,50 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 19,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/5 Into the Soup/1 Deng's proposal.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 21, 2023 at 9:51 AM",
+                                "Modified": "July 20, 2023 at 2:00 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Deng's proposal"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/5 Into the Soup/2 Writing the paper.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 16, 2023 at 3:18 PM",
+                                "Modified": "August 6, 2023 at 8:51 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Writing the paper"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/5 Into the Soup/3 Empathetic baseline.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 21, 2023 at 3:12 PM",
+                                "Modified": "August 6, 2023 at 9:11 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Empathetic baseline"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/6 Material #110",
@@ -431,7 +927,50 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 20,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/6 Material #110/1 Sunflower mania.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "March 14, 2023 at 8:10 AM",
+                                "Modified": "July 28, 2023 at 4:11 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Sunflower mania"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/6 Material #110/2 Hatching the egg.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 12, 2023 at 4:07 PM",
+                                "Modified": "July 30, 2023 at 1:07 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Hatching the egg"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/6 Material #110/3 Surprise.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 22, 2023 at 11:06 AM",
+                                "Modified": "July 30, 2023 at 1:07 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Surprise"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/7 A Round And Innocuous Thing",
@@ -450,7 +989,36 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 21,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/7 A Round And Innocuous Thing/1 Four-oh-eight.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 22, 2023 at 12:12 PM",
+                                "Modified": "July 11, 2023 at 5:50 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Four-oh-eight"
+                        },
+                        {
+                            "src": "manuscript/3 Candidate/7 A Round And Innocuous Thing/2 The patch.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 22, 2023 at 2:49 PM",
+                                "Modified": "July 27, 2023 at 12:39 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "The patch"
+                        }
+                    ]
                 },
                 {
                     "src": "manuscript/3 Candidate/8 Hyperlagmites",
@@ -469,7 +1037,54 @@
                     },
                     "publicationDate": "2023-07-28",
                     "number": 22,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/3 Candidate/8 Hyperlagmites/1 Zhang Peifeng contacts Mona.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "June 26, 2023 at 1:16 PM",
+                                "Modified": "July 29, 2023 at 12:08 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Zhang Peifeng contacts Mona"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "src": "manuscript/5 Wu Ke Nai He",
+            "kind": "chapter",
+            "title": "Wu Ke Nai He",
+            "slug": "wu-ke-nai-he",
+            "metadata": {
+                "Created": "September 5, 2023 at 12:16 PM",
+                "Modified": "September 5, 2023 at 12:16 PM",
+                "Status": "No Status",
+                "Label": "No Label",
+                "Keywords": "",
+                "unpublished": false,
+                "incomplete": false
+            },
+            "number": 32,
+            "children": [
+                {
+                    "src": "manuscript/5 Wu Ke Nai He/1 The Phaseborn.html",
+                    "kind": "section",
+                    "metadata": {
+                        "Created": "September 5, 2023 at 12:16 PM",
+                        "Modified": "September 5, 2023 at 5:57 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false
+                    },
+                    "title": "The Phaseborn"
                 }
             ]
         }
