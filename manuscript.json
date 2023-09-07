@@ -1055,38 +1055,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "src": "manuscript/5 Wu Ke Nai He",
-            "kind": "chapter",
-            "title": "Wu Ke Nai He",
-            "slug": "wu-ke-nai-he",
-            "metadata": {
-                "Created": "September 5, 2023 at 12:16 PM",
-                "Modified": "September 5, 2023 at 12:16 PM",
-                "Status": "No Status",
-                "Label": "No Label",
-                "Keywords": "",
-                "unpublished": false,
-                "incomplete": false
-            },
-            "number": 32,
-            "children": [
-                {
-                    "src": "manuscript/5 Wu Ke Nai He/1 The Phaseborn.html",
-                    "kind": "section",
-                    "metadata": {
-                        "Created": "September 5, 2023 at 12:16 PM",
-                        "Modified": "September 5, 2023 at 5:57 PM",
-                        "Status": "No Status",
-                        "Label": "No Label",
-                        "Keywords": "",
-                        "unpublished": false,
-                        "incomplete": false
-                    },
-                    "title": "The Phaseborn"
-                }
-            ]
         }
     ]
 }
