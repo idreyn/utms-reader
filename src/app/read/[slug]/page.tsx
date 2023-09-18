@@ -67,7 +67,7 @@ export default function ChapterPage(props: Props) {
     } = props;
     const redirect = redirects[slug];
     if (redirect) {
-        return <Redirect href={`/read/${redirects[slug]}`} />;
+        return <Redirect href={`/read/${redirect}`} />;
     }
     const details = getCurrentChapterDetails(slug);
     const { current } = details;
