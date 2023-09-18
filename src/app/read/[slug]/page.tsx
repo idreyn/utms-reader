@@ -8,13 +8,18 @@ import {
     getChapterDetails,
 } from "@/ingest";
 import { ChapterDetails } from "@/types";
-import { Chapter } from "@/components";
+import { Chapter, Redirect } from "@/components";
 import { bookMetadata } from "@/utils";
+import { redirect } from "next/dist/server/api-utils";
 
 type Props = {
     params: {
         slug: string;
     };
+};
+
+const redirects: Record<string, string> = {
+    "nine-eyes": "old-new-prosperity", // Old chapter that began Part 4
 };
 
 const getCurrentChapterDetails = (slug: string): ChapterDetails => {
@@ -27,6 +32,11 @@ export const generateMetadata = (props: Props): Metadata => {
     const {
         params: { slug },
     } = props;
+    if (redirects[slug]) {
+        return {
+            title: "Redirecting...",
+        };
+    }
     const { current, number } = getCurrentChapterDetails(slug);
     const title = `${number} // ${current.title}`.toUpperCase();
     return {
@@ -46,15 +56,20 @@ export const generateMetadata = (props: Props): Metadata => {
 export const generateStaticParams = () => {
     const manuscript = loadManuscriptJson();
     const chapters = getChapters(manuscript);
-    return chapters.map((chapter) => {
-        return { slug: chapter.slug };
-    });
+    return [
+        ...chapters.map(({ slug }) => ({ slug })),
+        ...Object.keys(redirect).map((slug) => ({ slug })),
+    ];
 };
 
 export default function ChapterPage(props: Props) {
     const {
         params: { slug },
     } = props;
+    const redirect = redirects[slug];
+    if (redirect) {
+        return <Redirect href={`/read/${redirects[slug]}`} />;
+    }
     const details = getCurrentChapterDetails(slug);
     const { current } = details;
     const contents = loadChapterContents(current);

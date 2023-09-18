@@ -4,5 +4,6 @@ export * from "./ChapterTitle";
 export * from "./ThemeToggle";
 export * from "./GlobalHeader";
 export * from "./ReadingLayout";
+export * from "./Redirect";
 export * from "./TableOfContents";
 export * from "./ThemeProvider";
