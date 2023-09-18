@@ -10,7 +10,6 @@ import {
 import { ChapterDetails } from "@/types";
 import { Chapter, Redirect } from "@/components";
 import { bookMetadata } from "@/utils";
-import { redirect } from "next/dist/server/api-utils";
 
 type Props = {
     params: {
@@ -58,7 +57,7 @@ export const generateStaticParams = () => {
     const chapters = getChapters(manuscript);
     return [
         ...chapters.map(({ slug }) => ({ slug })),
-        ...Object.keys(redirect).map((slug) => ({ slug })),
+        ...Object.keys(redirects).map((slug) => ({ slug })),
     ];
 };
 
