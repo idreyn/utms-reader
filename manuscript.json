@@ -1062,12 +1062,12 @@
             "title": "Parallax",
             "metadata": {
                 "Created": "July 20, 2023 at 9:11 PM",
-                "Modified": "September 18, 2023 at 2:31 PM",
+                "Modified": "September 20, 2023 at 8:04 PM",
                 "Status": "No Status",
                 "Label": "No Label",
                 "Keywords": "",
                 "unpublished": false,
-                "incomplete": true
+                "incomplete": false
             },
             "number": 4,
             "children": [
@@ -1322,7 +1322,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 18, 2023 at 2:21 PM",
-                                "Modified": "September 19, 2023 at 12:25 PM",
+                                "Modified": "September 20, 2023 at 2:03 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1358,6 +1358,41 @@
                                 "incomplete": false
                             },
                             "title": "Nightmarket"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/7 Wu Ke Nai He",
+                    "kind": "chapter",
+                    "title": "Wu Ke Nai He",
+                    "slug": "wu-ke-nai-he",
+                    "metadata": {
+                        "Created": "September 5, 2023 at 12:16 PM",
+                        "Modified": "September 20, 2023 at 8:03 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false,
+                        "publicationDate": "2023-09-20"
+                    },
+                    "publicationDate": "2023-09-20",
+                    "number": 29,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/7 Wu Ke Nai He/1 Selling Introspecs.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "September 5, 2023 at 12:16 PM",
+                                "Modified": "September 20, 2023 at 8:01 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false,
+                                "publicationDate": "2023-09-20"
+                            },
+                            "title": "Selling Introspecs"
                         }
                     ]
                 }
