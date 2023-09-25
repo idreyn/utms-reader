@@ -1368,15 +1368,17 @@
                     "slug": "wu-ke-nai-he",
                     "metadata": {
                         "Created": "September 5, 2023 at 12:16 PM",
-                        "Modified": "September 25, 2023 at 3:30 PM",
+                        "Modified": "September 25, 2023 at 4:22 PM",
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
                         "unpublished": false,
                         "incomplete": false,
-                        "publicationDate": "2023-09-20"
+                        "coverImage": "covers/wknh.png",
+                        "publicationDate": "2023-09-25"
                     },
-                    "publicationDate": "2023-09-20",
+                    "coverImage": "covers/wknh.png",
+                    "publicationDate": "2023-09-25",
                     "number": 29,
                     "children": [
                         {
