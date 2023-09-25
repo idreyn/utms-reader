@@ -1360,6 +1360,56 @@
                             "title": "Nightmarket"
                         }
                     ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/7 Wu Ke Nai He",
+                    "kind": "chapter",
+                    "title": "Wu Ke Nai He",
+                    "slug": "wu-ke-nai-he",
+                    "metadata": {
+                        "Created": "September 5, 2023 at 12:16 PM",
+                        "Modified": "September 25, 2023 at 3:30 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false,
+                        "publicationDate": "2023-09-20"
+                    },
+                    "publicationDate": "2023-09-20",
+                    "number": 29,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/7 Wu Ke Nai He/1 Selling Introspecs.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "September 5, 2023 at 12:16 PM",
+                                "Modified": "September 25, 2023 at 3:32 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false,
+                                "publicationDate": "2023-09-20"
+                            },
+                            "title": "Selling Introspecs"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/7 Wu Ke Nai He/2 The debris spreads.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "September 25, 2023 at 3:29 PM",
+                                "Modified": "September 25, 2023 at 3:29 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false,
+                                "publicationDate": "2023-09-20"
+                            },
+                            "title": "The debris spreads"
+                        }
+                    ]
                 }
             ]
         }
