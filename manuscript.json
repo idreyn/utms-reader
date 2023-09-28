@@ -1420,14 +1420,16 @@
                     "slug": "a-maw-too-wide",
                     "metadata": {
                         "Created": "September 25, 2023 at 3:28 PM",
-                        "Modified": "September 28, 2023 at 12:51 PM",
+                        "Modified": "September 28, 2023 at 1:10 PM",
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
                         "unpublished": false,
                         "incomplete": false,
+                        "coverImage": "covers/sunflowers.png",
                         "publicationDate": "2023-09-28"
                     },
+                    "coverImage": "covers/sunflowers.png",
                     "publicationDate": "2023-09-28",
                     "number": 30,
                     "children": [
@@ -1478,13 +1480,12 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 28, 2023 at 12:44 PM",
-                                "Modified": "September 28, 2023 at 1:09 PM",
+                                "Modified": "September 28, 2023 at 1:10 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
                                 "unpublished": false,
-                                "incomplete": false,
-                                "coverImage": "covers/sunflowers.png"
+                                "incomplete": false
                             },
                             "title": "Sleepy time"
                         }
