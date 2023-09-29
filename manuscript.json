@@ -1072,7 +1072,7 @@
             "number": 4,
             "children": [
                 {
-                    "src": "manuscript/4 Parallax/1 Old New Prosperity",
+                    "src": "manuscript/4 Parallax/01 Old New Prosperity",
                     "kind": "chapter",
                     "title": "Old New Prosperity",
                     "slug": "old-new-prosperity",
@@ -1092,7 +1092,7 @@
                     "number": 23,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/1 Old New Prosperity/1 Introduction.html",
+                            "src": "manuscript/4 Parallax/01 Old New Prosperity/1 Introduction.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 31, 2023 at 9:54 AM",
@@ -1106,7 +1106,7 @@
                             "title": "Introduction"
                         },
                         {
-                            "src": "manuscript/4 Parallax/1 Old New Prosperity/2 Finding Dr. Zhang.html",
+                            "src": "manuscript/4 Parallax/01 Old New Prosperity/2 Finding Dr. Zhang.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 15, 2023 at 4:13 PM",
@@ -1120,7 +1120,7 @@
                             "title": "Finding Dr. Zhang"
                         },
                         {
-                            "src": "manuscript/4 Parallax/1 Old New Prosperity/3 Mona handles a camera.html",
+                            "src": "manuscript/4 Parallax/01 Old New Prosperity/3 Mona handles a camera.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 1, 2023 at 2:49 PM",
@@ -1136,7 +1136,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng",
+                    "src": "manuscript/4 Parallax/02 Dr. Zhang Peifeng",
                     "kind": "chapter",
                     "title": "Dr. Zhang Peifeng",
                     "slug": "dr-zhang-peifeng",
@@ -1154,7 +1154,7 @@
                     "number": 24,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/2 Dr. Zhang Peifeng/1 Mona and Tethi talk.html",
+                            "src": "manuscript/4 Parallax/02 Dr. Zhang Peifeng/1 Mona and Tethi talk.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 3, 2023 at 3:15 PM",
@@ -1170,7 +1170,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/3 The Sea at Night",
+                    "src": "manuscript/4 Parallax/03 The Sea at Night",
                     "kind": "chapter",
                     "title": "The Sea at Night",
                     "slug": "the-sea-at-night",
@@ -1188,7 +1188,7 @@
                     "number": 25,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/3 The Sea at Night/1 Tiling into the sea.html",
+                            "src": "manuscript/4 Parallax/03 The Sea at Night/1 Tiling into the sea.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 10, 2023 at 4:37 PM",
@@ -1204,7 +1204,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/4 Ker-thoink",
+                    "src": "manuscript/4 Parallax/04 Ker-thoink",
                     "kind": "chapter",
                     "title": "Ker-thoink",
                     "slug": "ker-thoink",
@@ -1222,7 +1222,7 @@
                     "number": 26,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/4 Ker-thoink/1 Directly afterwards.html",
+                            "src": "manuscript/4 Parallax/04 Ker-thoink/1 Directly afterwards.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 2, 2023 at 7:51 PM",
@@ -1236,7 +1236,7 @@
                             "title": "Directly afterwards"
                         },
                         {
-                            "src": "manuscript/4 Parallax/4 Ker-thoink/2 On the roof.html",
+                            "src": "manuscript/4 Parallax/04 Ker-thoink/2 On the roof.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 3, 2023 at 3:20 PM",
@@ -1252,7 +1252,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/5 He Named It After Himself",
+                    "src": "manuscript/4 Parallax/05 He Named It After Himself",
                     "kind": "chapter",
                     "title": "He Named It After Himself",
                     "slug": "he-named-it-after-himself",
@@ -1270,7 +1270,7 @@
                     "number": 27,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/5 He Named It After Himself/1 Birth of the Andre.html",
+                            "src": "manuscript/4 Parallax/05 He Named It After Himself/1 Birth of the Andre.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 5, 2023 at 9:28 PM",
@@ -1286,7 +1286,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/6 Scenes from Triple Point",
+                    "src": "manuscript/4 Parallax/06 Scenes from Triple Point",
                     "kind": "chapter",
                     "title": "Scenes from Triple Point",
                     "slug": "scenes-from-triple-point",
@@ -1304,7 +1304,7 @@
                     "number": 28,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/6 Scenes from Triple Point/1 Enjoying Triple Point.html",
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/1 Enjoying Triple Point.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 6, 2023 at 11:28 AM",
@@ -1318,7 +1318,7 @@
                             "title": "Enjoying Triple Point"
                         },
                         {
-                            "src": "manuscript/4 Parallax/6 Scenes from Triple Point/2 Watch the counter.html",
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/2 Watch the counter.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 18, 2023 at 2:21 PM",
@@ -1332,7 +1332,7 @@
                             "title": "Watch the counter"
                         },
                         {
-                            "src": "manuscript/4 Parallax/6 Scenes from Triple Point/3 Tethi on the Chalk.html",
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/3 Tethi on the Chalk.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 14, 2023 at 9:40 AM",
@@ -1346,7 +1346,7 @@
                             "title": "Tethi on the Chalk"
                         },
                         {
-                            "src": "manuscript/4 Parallax/6 Scenes from Triple Point/4 Nightmarket.html",
+                            "src": "manuscript/4 Parallax/06 Scenes from Triple Point/4 Nightmarket.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "August 7, 2023 at 7:40 AM",
@@ -1362,7 +1362,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/7 Wu Ke Nai He",
+                    "src": "manuscript/4 Parallax/07 Wu Ke Nai He",
                     "kind": "chapter",
                     "title": "Wu Ke Nai He",
                     "slug": "wu-ke-nai-he",
@@ -1382,7 +1382,7 @@
                     "number": 29,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/7 Wu Ke Nai He/1 Selling Introspecs.html",
+                            "src": "manuscript/4 Parallax/07 Wu Ke Nai He/1 Selling Introspecs.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 5, 2023 at 12:16 PM",
@@ -1397,7 +1397,7 @@
                             "title": "Selling Introspecs"
                         },
                         {
-                            "src": "manuscript/4 Parallax/7 Wu Ke Nai He/2 The debris spreads.html",
+                            "src": "manuscript/4 Parallax/07 Wu Ke Nai He/2 The debris spreads.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 25, 2023 at 3:29 PM",
@@ -1414,7 +1414,7 @@
                     ]
                 },
                 {
-                    "src": "manuscript/4 Parallax/8 A Maw Too Wide",
+                    "src": "manuscript/4 Parallax/08 A Maw Too Wide",
                     "kind": "chapter",
                     "title": "A Maw Too Wide",
                     "slug": "a-maw-too-wide",
@@ -1434,7 +1434,7 @@
                     "number": 30,
                     "children": [
                         {
-                            "src": "manuscript/4 Parallax/8 A Maw Too Wide/1 Doing drugs in the club.html",
+                            "src": "manuscript/4 Parallax/08 A Maw Too Wide/1 Doing drugs in the club.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 25, 2023 at 9:14 PM",
@@ -1448,7 +1448,7 @@
                             "title": "Doing drugs in the club"
                         },
                         {
-                            "src": "manuscript/4 Parallax/8 A Maw Too Wide/2 In the Sunflowers.html",
+                            "src": "manuscript/4 Parallax/08 A Maw Too Wide/2 In the Sunflowers.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 6, 2023 at 2:59 PM",
@@ -1462,11 +1462,11 @@
                             "title": "In the Sunflowers"
                         },
                         {
-                            "src": "manuscript/4 Parallax/8 A Maw Too Wide/3 Escaping.html",
+                            "src": "manuscript/4 Parallax/08 A Maw Too Wide/3 Escaping.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 26, 2023 at 9:26 PM",
-                                "Modified": "September 28, 2023 at 12:50 PM",
+                                "Modified": "September 29, 2023 at 9:16 AM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1476,11 +1476,11 @@
                             "title": "Escaping"
                         },
                         {
-                            "src": "manuscript/4 Parallax/8 A Maw Too Wide/4 Sleepy time.html",
+                            "src": "manuscript/4 Parallax/08 A Maw Too Wide/4 Sleepy time.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 28, 2023 at 12:44 PM",
-                                "Modified": "September 28, 2023 at 1:10 PM",
+                                "Modified": "September 29, 2023 at 9:44 AM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
