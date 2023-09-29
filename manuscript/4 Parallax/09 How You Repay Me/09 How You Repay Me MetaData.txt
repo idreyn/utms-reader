@@ -1,8 +1,10 @@
 Created: August 9, 2023 at 11:36 AM
-Modified: September 20, 2023 at 8:04 PM
+Modified: September 29, 2023 at 4:05 PM
 Status: No Status
 Label: No Label
 Keywords: 
-unpublished:	Yes
+unpublished:	No
 incomplete:	No
+coverImage:	covers/observatory.png
+publicationDate:	2023-09-29
 

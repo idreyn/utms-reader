@@ -1490,6 +1490,56 @@
                             "title": "Sleepy time"
                         }
                     ]
+                },
+                {
+                    "src": "manuscript/4 Parallax/09 How You Repay Me",
+                    "kind": "chapter",
+                    "title": "How You Repay Me",
+                    "slug": "how-you-repay-me",
+                    "metadata": {
+                        "Created": "August 9, 2023 at 11:36 AM",
+                        "Modified": "September 29, 2023 at 4:05 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false,
+                        "coverImage": "covers/observatory.png",
+                        "publicationDate": "2023-09-29"
+                    },
+                    "coverImage": "covers/observatory.png",
+                    "publicationDate": "2023-09-29",
+                    "number": 31,
+                    "children": [
+                        {
+                            "src": "manuscript/4 Parallax/09 How You Repay Me/1 Reporting the data.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "September 29, 2023 at 10:41 AM",
+                                "Modified": "September 29, 2023 at 3:48 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Reporting the data"
+                        },
+                        {
+                            "src": "manuscript/4 Parallax/09 How You Repay Me/2 To the Observatory.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "September 12, 2023 at 1:03 PM",
+                                "Modified": "September 29, 2023 at 3:42 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "To the Observatory"
+                        }
+                    ]
                 }
             ]
         }
