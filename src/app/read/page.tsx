@@ -5,7 +5,7 @@ import { TableOfContents } from "@/components";
 
 const teaser = (
     <div style={{ color: "var(--color-incomplete)" }}>
-        <h2>Parts 5-6</h2>
+        <h2>Part 6</h2>
         <i>Coming Fall 2023</i>
     </div>
 );
