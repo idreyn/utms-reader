@@ -1559,13 +1559,13 @@
             "number": 5,
             "children": [
                 {
-                    "src": "manuscript/5 Substrate/1 Stanford",
+                    "src": "manuscript/5 Substrate/1 Red Red Red Red Blue",
                     "kind": "chapter",
-                    "title": "Stanford",
-                    "slug": "stanford",
+                    "title": "Red Red Red Red Blue",
+                    "slug": "red-red-red-red-blue",
                     "metadata": {
                         "Created": "September 29, 2023 at 11:50 PM",
-                        "Modified": "September 30, 2023 at 12:08 PM",
+                        "Modified": "September 30, 2023 at 12:10 PM",
                         "Status": "No Status",
                         "Label": "No Label",
                         "Keywords": "",
@@ -1579,7 +1579,7 @@
                     "number": 32,
                     "children": [
                         {
-                            "src": "manuscript/5 Substrate/1 Stanford/1 Achieving loop-lock.html",
+                            "src": "manuscript/5 Substrate/1 Red Red Red Red Blue/1 Achieving loop-lock.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "June 27, 2023 at 11:46 AM",
@@ -1593,7 +1593,7 @@
                             "title": "Achieving loop-lock"
                         },
                         {
-                            "src": "manuscript/5 Substrate/1 Stanford/2 Deng's offer.html",
+                            "src": "manuscript/5 Substrate/1 Red Red Red Red Blue/2 Deng's offer.html",
                             "kind": "section",
                             "metadata": {
                                 "Created": "September 29, 2023 at 11:50 PM",
