@@ -1,0 +1,10 @@
+Created: September 29, 2023 at 11:50 PM
+Modified: September 30, 2023 at 12:08 PM
+Status: No Status
+Label: No Label
+Keywords: 
+unpublished:	No
+incomplete:	No
+coverImage:	covers/stanford.png
+publicationDate:	2023-09-30
+
