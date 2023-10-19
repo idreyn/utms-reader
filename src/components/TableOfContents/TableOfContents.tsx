@@ -37,10 +37,12 @@ export const TableOfContents = (props: Props) => {
             coverImage: "",
             children: [],
         };
+        const partTitle = number > 0 && <>Part {number}: </>;
         return (
             <section className={styles.section}>
                 <h2 id={`part-${number}`}>
-                    Part {number}: {title}
+                    {partTitle}
+                    {title}
                 </h2>
                 <ul className={styles.list}>
                     {children.map((child, index) => (

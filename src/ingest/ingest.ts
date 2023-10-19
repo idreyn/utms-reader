@@ -83,7 +83,7 @@ const counter = () => {
     const state: Partial<Record<ManuscriptElementKind, number>> = {};
 
     const next = (kind: ManuscriptElementKind) => {
-        const current = state[kind] ?? 1;
+        const current = state[kind] ?? 0;
         state[kind] = current + 1;
         return current;
     };

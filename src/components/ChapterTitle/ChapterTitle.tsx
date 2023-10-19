@@ -33,7 +33,7 @@ const renderTitleString = (props: Props) => {
     const { number, title } = chapter;
     const andSeparator = <>{separator} </>;
     const numberPrefix =
-        number && showNumber ? (
+        typeof number === "number" && showNumber ? (
             digits ? (
                 <>
                     {padNumber(number, digits)}
