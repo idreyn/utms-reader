@@ -4,7 +4,7 @@
         <title>Upon the Mirror Sea</title>
         <link>https://mirrorsea.xyz</link>
         <description>A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.</description>
-        <lastBuildDate>Thu, 19 Oct 2023 21:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 21:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
         </image>
         <copyright>© 2023 by @phaseborn</copyright>
         <item>
-            <title><![CDATA[1 // RED RED RED RED BLUE]]></title>
+            <title><![CDATA[0 // RED RED RED RED BLUE]]></title>
             <link>https://mirrorsea.xyz/read/red-red-red-red-blue</link>
             <guid>https://mirrorsea.xyz/read/red-red-red-red-blue</guid>
-            <pubDate>Sat, 30 Sep 2023 00:00:01 GMT</pubDate>
+            <pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">The machine at Stanford was dangerous in a number of ways, and the Institutional Review Board was finding more every day. It was my job to fill out the forms that they’d send up to our dry but meticulously dust-free stucco lab at the edge of campus. They would have questions — about voltages, dose-response curves, psychological baselines — and I became adept at answering them in Dr. Deng’s voice, with her trademark deflection. It was not that I had to lie to them about what we planned to do with a UTMS scanner and industrial quantities of DMT. But I did have to fashion a kind of viscous bubble of confusion around the project. Sludgy narrative tar-traps that the IRB would count their waking hours against and eventually give in to. I learned from the best.</p>
 <p class="p1">“Okay, they have questions about eye strain,” I would shout across the lab, during early autumn afternoons when I should have been in class. “They want to know how many lumens the headset gives off. And whether we can shift the colors off the blue side of the spectrum.”</p>
@@ -85,10 +85,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2 // NEIKONAUT]]></title>
+            <title><![CDATA[1 // NEIKONAUT]]></title>
             <link>https://mirrorsea.xyz/read/neikonaut</link>
             <guid>https://mirrorsea.xyz/read/neikonaut</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:02 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:01 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 
 <p class="p2">THREE YEARS LATER</p>
@@ -152,10 +152,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[3 // THIS IS LOOP-LOCK]]></title>
+            <title><![CDATA[2 // THIS IS LOOP-LOCK]]></title>
             <link>https://mirrorsea.xyz/read/this-is-loop-lock</link>
             <guid>https://mirrorsea.xyz/read/this-is-loop-lock</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:03 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:02 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">For one moment, I'm soaring over a vast, hyperbolic horizon — just enjoying the sensation of forgotten senses coming online and background caches warming to full. I limber up, becoming a ring through which I pass a sphere, which bursts spiky with my heartbeat until it becomes a polyhedron that tessellates across a hyperplane, which I slice into countless layers, overlaying them into a mosaic stretched across my inner light, through which an almost heartbreakingly beautiful proof of the four-color theorem shines. I swoop downwards into a thicket of tubular combinators, piping them together into a machine that rumbles and churns and ejects Merseinne primes like psychedelic parade floats. Okay, still a little stiff, but I'm satisfied that I'm not going to fry myself with a misfired tail call. I push harder on the throttle at the edge of my awareness, retracting my hundreds of appendages into something speedy and compact, and slam through a wall that I just willed into existence like a raindrop hitting a pond.</p>
 <p class="p1">It would be silly, reductive, to call what's on the other side of this my <i>desktop</i>. It would be borderline profane to call the hyperobjects that populate it, these glassy meteorites from the Platonic realm, <i>files and programs</i>. But this place, a mandala of columns and alcoves and archways, a faintly cotton-candy calm, pulsating with gossamer isomorphisms...it <i>is</i> where I keep the constructs I use the most in tilespace. They burst into view, utterly impossible to imagine down there in soberspace, but utterly unremarkable up here. Many, naturally, are inversion capsules: hefty, translucent carapaces with the eyefeel of quality plastic, some sealed tight and others halfway-reverse engineered, spilling their hypnotically-flashing logical guts. Pre-packaged antidotes to different classes of neikotic debris. A boring day in the clinic involves firing these into patients' minds without entering loop-lock myself.</p>
@@ -204,10 +204,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4 // INVERSION]]></title>
+            <title><![CDATA[3 // INVERSION]]></title>
             <link>https://mirrorsea.xyz/read/inversion</link>
             <guid>https://mirrorsea.xyz/read/inversion</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:04 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:03 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">The neikotic debris at the center of Mbetethi’s mind is enormous, but the first thing I notice is its structure at the smallest scale. It’s made of the same jagged tilestuff as its roots, congealed and slower-moving. Its vocabulary of shapes is all sawscrew-corktooth irregularity. Its motion is crepuscular, half-signifying, golden-meaning and onyx-madness. It threatens at once to lash out with its roots, or coil into the interlocking, gyrating Fibonacci spirals that play along its surface. It crawls all over itself.</p>
 <p class="p1">And it’s reflective. I brush its roughness and it brushes back in the same way, and in its millions of sunflower facets I glimpse the diving-bell’s insectoid hull.<i> </i>It occurs to me that, in loop-lock, thing don't just reflect light. The reflection is something that has to be computed, ray-traced. It takes tiles, cycles, time and energy to do this. Why bother?</p>
@@ -267,10 +267,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5 // IN THE HALL OF EGGS]]></title>
+            <title><![CDATA[4 // IN THE HALL OF EGGS]]></title>
             <link>https://mirrorsea.xyz/read/in-the-hall-of-eggs</link>
             <guid>https://mirrorsea.xyz/read/in-the-hall-of-eggs</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:05 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:04 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">“Welcome back,” calls Dr. Deng from across the Neikotic Safety floor. Which is odd, because she’s the one who’s been away. One conference after another — I’ve barely seen her all summer. “Let’s take a walk?”</p>
 <p class="p1">Dr. Deng and I have begun every semester for the past three years by making each other our priority. We agree that we meet Mondays at nine sharp and take the week from there. And every semester, nine becomes ten thirty, ten thirty becomes <i>after lunch</i>, which gradually, torturously becomes <i>try and find me in the building, I dare you</i>. By December we’ll be lucky if we’re on speaking terms. But today is September 3 and she’s smiling, holding a coffee with my name on it. I’ll take it.</p>
@@ -332,10 +332,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[6 // DECLINE TO SAY]]></title>
+            <title><![CDATA[5 // DECLINE TO SAY]]></title>
             <link>https://mirrorsea.xyz/read/decline-to-say</link>
             <guid>https://mirrorsea.xyz/read/decline-to-say</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:06 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:05 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1"><span class="s1">There was no Neikotic Safety clinic at YINS until the year I arrived. </span><span class="s2">So how it already seems so timelessly dingy downstairs beggars belief. <i>Someone</i> had to choose these low ceilings, this distressingly creamy paint color, these oddly faithful LED simulacra of fluorescent bulbs. It was presumably someone else who then decided to deck it out like a Palo Alto strip-mall spa, with bonsai plants, little self-contained waterfalls, and beaded curtains where in my opinion there should be doors. Dr. Deng has nicked half a dozen salt lamps from down here — first for her office and later, I suspect, as last-minute birthday gifts — and yet more continue to appear. Sunk deep into a fat couch in the lounge one day, Yao finally figured it out: the instructions had, naturally, been to decorate for a psychedelic therapy clinic.</span></p>
 <p class="p1"><span class="s2">On the wall of the waiting room is a faux-neon tangle of lines which can be lit individually to present a surprising variety of truisms in caoshu<i> </i>calligraphy. Today’s is, essentially, <i>count your blessings</i>. And underneath, each sulking in a different corner of the room, are three neikonauts — perhaps one more than we treat on an average day. I recognize that stare that can’t quite focus, the way their cheeks twitch involuntarily; I try to make eye contact and they can’t quite lock on. So I cast a not-so-subtle glance at their puffy vests, their lanyards, and their messenger bags. Each of them, somewhere, bears the stylized-lock insignia of Suowei Financial.</span></p>
@@ -412,10 +412,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[7 // THE ZIPLOCK QUEEN OF FLOOR ZERO]]></title>
+            <title><![CDATA[6 // THE ZIPLOCK QUEEN OF FLOOR ZERO]]></title>
             <link>https://mirrorsea.xyz/read/the-ziplock-queen-of-floor-zero</link>
             <guid>https://mirrorsea.xyz/read/the-ziplock-queen-of-floor-zero</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:07 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:06 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1"><span class="s1">Over email, and well into the early morning, Yao treats me to more theories on the source of the new debris. But turning them over, I find they all omit a key figure. It was inside Mbetethi Okeme’s mind that I had computed the inversion, and I try inserting him into Yao’s gradually more unhinged speculations to see how he fits. Had he stolen the egg from one of Suowei’s honeypots? Was he leaving it outside the Suowei Tower for their more gullible neikonauts to find? The rhythm of Mbetethi’s tiles buzzes into my half-sleep, and I wake from a frantic sense of trying to match them, to write loops and build monads in his logic. We <i>conversed</i> in there, I could be sure of it — or at least, he spoke to the part of me that had crossed into him via the Bridge. Maybe he explained the egg quite clearly in there. But whatever he said, it’s now lost to me across two yawning chasms — one between waking life and loop-lock, and another between myself and the diving-bell.</span></p>
 <p class="p1"><span class="s1">I arrive early to the clinic the next morning and make a beeline for the first scanner bay, looking for something overlooked. All through my unsleep, I saw it clearly in my mind’s eye. And — <i>nice</i> — it’s still here: Mbetethi’s N-1 lanyard, still dangling inconspicuously from a swivel chair. I pocket it and hang around, waiting for patients. It’s never more than a trickle, but the waiting room is never empty. Joining yesterday’s Big Three traders are employees of smaller firms, and even one or two of what Yao called “lone wolves”. He’s not in today. But unbelievably, Deng is.</span></p>
@@ -480,10 +480,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[8 // THE MIRROR SEA]]></title>
+            <title><![CDATA[7 // THE MIRROR SEA]]></title>
             <link>https://mirrorsea.xyz/read/the-mirror-sea</link>
             <guid>https://mirrorsea.xyz/read/the-mirror-sea</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:08 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:07 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1"><span class="s1">I shouldn’t be thinking about the Mirror Sea at all. They gave me pills to take if I start.</span></p>
 <p class="p1"><span class="s1">But it’s not easy, not thinking about the Sea, when its inhabitants are the city’s unofficial mascots. This spring we passed a milestone: ten years after Shanghai Party Secretary Xia Zitian’s signature surveillance project was outed as a fraud, after the original system was hastily dismantled, there are more Mirror Sea cameras than ever before. An official tally would be impossible, would involve unprecedented cooperation between Blue Delta and the Ward Council and tribes of squatters in abandoned power plants. But that’s what they think.</span></p>
@@ -531,10 +531,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[9 // WHAT GOES]]></title>
+            <title><![CDATA[8 // WHAT GOES]]></title>
             <link>https://mirrorsea.xyz/read/what-goes</link>
             <guid>https://mirrorsea.xyz/read/what-goes</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:09 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:08 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">The Yangtze Delta Orthogonal Zone was to China what California had become to the United States. Great powers inside great powers, doves growing fat in the bellies of hawks, surprise twins. Neither wanted war. More to the point: neither wanted to be militarized, to be made a target for the other. Both the blue delta and the golden coast had wriggled and convulsed right up to the brink of sovereignty. Both now dangled from their motherlands by tense threads, the parallels uncanny, the details a mess. In San Francisco, in bombed-out China Daily newsboxes, I saw Xia Zitian’s name in three-inch print. I understood that in Shanghai the fiasco with the cameras had tipped the balance somehow.</p>
 <p class="p1">Back home we tried calling our double defection the Shanghai-California Mutually Assured Security Arrangement. On TV they gleefully pronounced it <i>shikamasa</i>, like a foreign word, or a shaken maraca. The English translation of the Mandarin name is worse, though. It was a big day at the networks when they got ahold of <i>CASH Axis</i>. But I was grateful. It was Deng who invited me to Shanghai, but it was SHCA-MASA that arranged my position at YINS, my passage across the Pacific, and a very favorable ward alignment. I would have the run of the city. I could go anywhere.</p>
@@ -568,10 +568,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10 // APPLICATIONS TO SOBERWARE]]></title>
+            <title><![CDATA[9 // APPLICATIONS TO SOBERWARE]]></title>
             <link>https://mirrorsea.xyz/read/applications-to-soberware</link>
             <guid>https://mirrorsea.xyz/read/applications-to-soberware</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:10 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:09 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Another rainy morning finds me knocking on Dr. Rui’s office door.</p>
 <p class="p1">“If it’s broken again, I’m not signing for it.” His reedy voice comes, muffled, through the door. There’s a two-beat pause and the clatter of glassware. Then: “Oh! Xu! Yes. I am sorry, really, do please come in.”</p>
@@ -612,10 +612,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11 // UP MUST]]></title>
+            <title><![CDATA[10 // UP MUST]]></title>
             <link>https://mirrorsea.xyz/read/up-must</link>
             <guid>https://mirrorsea.xyz/read/up-must</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:11 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:10 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1"><span class="s1">I entered Cai’s tilespace, and inverted her Tenfold Gate debris on the first try. Sitting upright in parallel scanner beds, the memory of what happened in there was already gone. But that was just sandcastles. The expression of clarity and relief on her face, that’s where I could have lived forever. The tryptamine remnants were beep-buzzing tunelessly, muttering crazy things in my ear. </span><span class="s2"><i>I never knew my own cells</i>: every one a treasure filled with treasures filled with treasures, a translucent iridescent music box, transcription whirring away in frenzied melodies, the taut and sensual ritual of mitosis. <i>I never knew my own mind</i>: all those layers never peeled back, all those unknown corners never turned. But Cai Yuhui did. For ten seconds the image of me that existed inside her was realer than I was. The locus of myself was in her eyes.</span></p>
 <p class="p2">“You should be careful,” I whispered. Deng might have been just down the hall. “I don’t know if I’ll be able to do that again.” But I would, of course. Ten times in the next six weeks. I didn’t know if Cai had a real use for Tenfold Gate, or if she was just addicted to the subtle pleasures of graph homeomorphisms. But I didn’t ask. I was addicted to her relief. Besides, some vantablack subself of mine was learning to pilot the diving-bell. I (she?) was doing it better and faster. Perhaps I (it?) was the only person alive both willing and able to operate the Deng Bridge.</p>
@@ -649,10 +649,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[12 // NIGHT TO NIGHT]]></title>
+            <title><![CDATA[11 // NIGHT TO NIGHT]]></title>
             <link>https://mirrorsea.xyz/read/night-to-night</link>
             <guid>https://mirrorsea.xyz/read/night-to-night</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:12 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:11 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">And that’s what I wake from at half past midnight this third night, sheets wrapped around me, channels buzzing deliciously. My boots are still damp, still squeaking, on my way down the stairs. This time I’m not so coy with myself about why I’ve ventured outside. I toe the western boundary of another ward, preparing to tap my card. <i>What you’re looking for isn’t in Xietu South,</i> I admit to myself. <i>That’s why you moved here, remember?</i></p>
 <p class="p1">And this is how I find myself in the private gardens of an apartment complex two wards over, crouched in the shrubbery, staring into their fishbowl. <i>It’s hurting you to avoid it,</i> which is the rationale of the insane and the addicted. <i>You just need a little peek.</i> The fishbowl is mostly dormant, but narrow strands of a Ripple flick in unmistakable standing waves along its edges. I lean forward, keeping to the shadows, for a slightly better look. <i>Get in closer. It’s on a delay, anyhow.</i> But I know that plenty of “delayed” Mirror Sea feeds run realtime, because the entire carnival of commerce surrounding Ripplechasing depends on it. I remember Cai telling me that —</p>
@@ -687,10 +687,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[13 // DOUBLE DESCENT]]></title>
+            <title><![CDATA[12 // DOUBLE DESCENT]]></title>
             <link>https://mirrorsea.xyz/read/double-descent</link>
             <guid>https://mirrorsea.xyz/read/double-descent</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:13 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:12 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">In the scant years that such a thing has been possible, Double Descent has accreted a reputation as a neikonaut bar. It did so by pioneering the benzodiazepine soda, an oh-what-the-hell last resort for candlestick cadets who had spent all day in loop-lock with a Bloomberg terminal and desperately needed the walls to stop moving. And for those who want the walls to <i>start</i> moving, tourists one step off the Bund seeking a righteously authentic place to try their first psychedelic, there are taps of guangpan<i> </i>and qingting nestled among the IPAs. Doled out stingily unless you know how to ask.</p>
 <p class="p1">An hour later, this is where I start my search. At the end of a long, gently-sloping service alleyway, Double Descent is both in the middle of Pudong’s dazzling finance district and conspicuously nowhere at all. It would be almost anticlimactic to find Mbetethi here, I figure. When oddly well-lit photos of Double Descent started to appear in Must-See Shanghai listicles, some of the old crowd scattered elsewhere. But others quite literally dug in. The venue is now at least five stories deep and counting; those who know best how many floors there are, are least likely to say.</p>
@@ -786,10 +786,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[14 // SO BELOW]]></title>
+            <title><![CDATA[13 // SO BELOW]]></title>
             <link>https://mirrorsea.xyz/read/so-below</link>
             <guid>https://mirrorsea.xyz/read/so-below</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:14 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:13 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Down.</p>
 <p class="p1">I mean, c’mon.</p>
@@ -832,10 +832,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[15 // COME DOWN]]></title>
+            <title><![CDATA[14 // COME DOWN]]></title>
             <link>https://mirrorsea.xyz/read/come-down</link>
             <guid>https://mirrorsea.xyz/read/come-down</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:15 GMT</pubDate>
+            <pubDate>Fri, 09 Jun 2023 00:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">It was gone. It was gone. It was in the chalk and the feeds and the texture of time itself, and then it was simply gone. All day I’d been outside looking for it: the sigil on the wall of it, the knowing glance of it. It was gone, I realized, from Cai’s feed. April was becoming May, Shanghai was heating up. Something new groaned in the loam, waiting to be born. <i>The city was no longer a coral reef.</i> Nothing lives forever, much less a Ripple. Where was Cai?</p>
 <p class="p1"><i>It was early morning, blue-gray dawn, spring-dew already steaming off the grass. I was back in Beiwan, finally. I was out of the veetle and on foot, dashing down the streets, glancing sidelong at the displays, hoping for some remnant of the old one, some death-throes to tide her over. A million things to remember. A million things to let go of, but not this one please not this one. I hadn’t warned her about the crash, the withdrawal, the jump. We could make this one together hand in hand, I was thinking, but that wasn’t true. I had seen the right moment because that’s what I do. I had already lept.</i></p>
@@ -848,10 +848,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[16 // A LITTLE BIT OF PAPERWORK]]></title>
+            <title><![CDATA[15 // A LITTLE BIT OF PAPERWORK]]></title>
             <link>https://mirrorsea.xyz/read/a-little-bit-of-paperwork</link>
             <guid>https://mirrorsea.xyz/read/a-little-bit-of-paperwork</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:16 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:15 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Once in the backseat, age twelve or so and bored to death by the Pacific Coast Highway, I saw a UFO. I remember two phosphorically bright balls spinning around each other on a fixed axis, hurtling away from the night. <i>Mom! Dad! </i>But by the time I had their attention, it was lost in the sunset. At the time the Air Force was still overflying California, slow-rolling down the street like a jealous ex, but with <i>that?</i> My mind reeled over the implications. I was certain this would upend my whole impression of the cosmos, soft as it still was. And then I took a brief nap. Fifteen minutes later I was on my phone, and the UFO was something that had happened to someone else.</p>
 <p class="p1">This is the strategy. It doesn’t work. I wake up to a 10 AM alarm, still in my street clothes and smelling of tunnel. I force myself to get a good look in the mirror — <i>this</i> is you, you are <i>here</i> — and not to feel the relief when it fogs over.<span class="Apple-converted-space"> </span></p>
@@ -888,10 +888,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[17 // CAI]]></title>
+            <title><![CDATA[16 // CAI]]></title>
             <link>https://mirrorsea.xyz/read/cai</link>
             <guid>https://mirrorsea.xyz/read/cai</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:17 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:16 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">“Mona,” Cai says, falling-rising. And I feel the spring-load of the moment, the outrush of months of coiled potential energy. But now, crushing devastation: in her eyes I see the same mechanism fail to fire. Nothing was leading up to this. She never wondered what this moment would be like. I am a problem to be solved. Yue Fang looks at me, then at her, and after trying to broker a pleasantry or two decides she really needs to file those drives.</p>
 <p class="p1">Cai looks right into my clockwork and softly but perceptibly sighs. “Can I talk to you outside?”</p>
@@ -925,10 +925,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[18 // SPELUNKING]]></title>
+            <title><![CDATA[17 // SPELUNKING]]></title>
             <link>https://mirrorsea.xyz/read/spelunking</link>
             <guid>https://mirrorsea.xyz/read/spelunking</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:18 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:17 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">In Weather Bureau custody, one of the interchangeable men had steered me down an interchangeable hallway to a room with dark walls instead of white. Properly speaking there was no lighting at all in there. A woman sat on the floor, surely uncomfortable, cross-legged in her pantsuit. She gestured for me to take a seat and the door clicked behind me. No light bled in from around it.</p>
 <p class="p1">“YINS, right?” She wore their standard-issue iridescent visor over her eyes, but for the first time that night I caught a sliver of a smile underneath it. “I suppose you might know what these are?”</p>
@@ -956,10 +956,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[19 // CAUSAL INCURSION]]></title>
+            <title><![CDATA[18 // CAUSAL INCURSION]]></title>
             <link>https://mirrorsea.xyz/read/causal-incursion</link>
             <guid>https://mirrorsea.xyz/read/causal-incursion</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:19 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:18 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">There is a commotion brewing outside the Dong’an metro station the next day as I’m heading to campus. Redlights and bluelights came to placate the crowd, but of course now they’re bickering with each other: a xiangsheng self-parody of relations between the wards and Blue Delta. The gate attendants look on haplessly from behind reinforced glass.</p>
 <p class="p1">“They’re fucking with the ping again,” someone finally explains to me, waving their wallet app in my face. “It’s my mother-in-law’s birthday and they’re fucking with the ping.”</p>
@@ -1020,10 +1020,10 @@
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20 // INTO THE SOUP]]></title>
+            <title><![CDATA[19 // INTO THE SOUP]]></title>
             <link>https://mirrorsea.xyz/read/into-the-soup</link>
             <guid>https://mirrorsea.xyz/read/into-the-soup</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:20 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:19 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Deng’s making a show of it. As I pull up a cafeteria chair, she slides me a heavy sheet of paper marked up in her own hand, in tight blue ink — even her handwriting has good posture. It’s the same set of nine equations she showed me earlier. Or very nearly so. She smiles.</p>
 <p class="p1">“The Sunflower Sieve has appeared. It’s time to write the paper on its inversion, or you’ll soon be scooped.”</p>
@@ -1111,10 +1111,10 @@ Xu Maoli (xu.mona@yins.edu); Deng Jinghan (deng@yins.edu)</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[21 // MATERIAL #110]]></title>
+            <title><![CDATA[20 // MATERIAL #110]]></title>
             <link>https://mirrorsea.xyz/read/material-110</link>
             <guid>https://mirrorsea.xyz/read/material-110</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:21 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:20 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Sunflower mania grips Shanghai.</p>
 <p class="p1">Consider my downstairs neighbor, a man with red cheeks and a shock of white hair who we call Lao Miao. A retired mechanic, the man to beat at chess in our little combover of a park, a big hit with the aunties. Miao considers himself a citizen of Xietu South Ward, and then of the People’s Republic of China, and nothing in between. He keeps his long-expired Chinese shenfenzheng card taped to the back of an old cell phone, the chip from his YZID reluctantly stuffed inside. He gambles in RMB, wins in parallel yuan, and goes down the street to exchange it right back. He gripes about Blue Delta’s overreaction to the Xia Zitian thing. Now <i>there</i> was a man, he once mused to no one in particular, who made a single mistake! And admitted it!</p>
@@ -1174,10 +1174,10 @@ Xu Maoli (xu.mona@yins.edu); Deng Jinghan (deng@yins.edu)</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[22 // A ROUND AND INNOCUOUS THING]]></title>
+            <title><![CDATA[21 // A ROUND AND INNOCUOUS THING]]></title>
             <link>https://mirrorsea.xyz/read/a-round-and-innocuous-thing</link>
             <guid>https://mirrorsea.xyz/read/a-round-and-innocuous-thing</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:22 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:21 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">What happens to me next?</p>
 <p class="p1">Your guess is nearly as good as mine. I found my way out of my own surprise party sometime before it died down. I found myself out on the street, doing what it took minute-by-minute effort to avoid this morning: looking at the displays. There’s something in there, all right. The goldenrod rays in the Sea — which, surely, must be caused by all that sunflower memorabilia — they’re always far in the background, extending in streaks that want to be straight, but can’t quite manage. They shine like crayon scrawl made of nighttime skylines, and they intersect at distant, twinkling nodal points. A structure is forming in there. No single display could show the smallest fraction of it. But I’m carrying around mental machinery that makes it impossible to miss: I draw connections, fill gaps, extrapolate.</p>
@@ -1229,10 +1229,10 @@ Xu Maoli (xu.mona@yins.edu); Deng Jinghan (deng@yins.edu)</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[23 // HYPERLAGMITES]]></title>
+            <title><![CDATA[22 // HYPERLAGMITES]]></title>
             <link>https://mirrorsea.xyz/read/hyperlagmites</link>
             <guid>https://mirrorsea.xyz/read/hyperlagmites</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:23 GMT</pubDate>
+            <pubDate>Fri, 28 Jul 2023 00:00:22 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Sunflower-I. <i>Sunflower One.</i></p>
 <p class="p1">I keep putting the damn patch down on my bedsheets and then picking it back up. I run my fingers over it as though its stitched ridges might offer some essential clue. The sunflower it depicts is in full, stylized bloom. Spirals of seeds decorate the center. It all suggests some military or spacefaring origin, and I find myself searching the web for the phrase:<i> sunflower-I. sunflower program deng jinghan.</i> There are literally one million results on the Soup, of course, and the only way to filter out the Sieve-related stuff is to sort oldest-first. There was a strongwave detector called Sunflower on a Jupiter mission a few years back. There’s a symmetry group that mathematicians have given the same name…</p>
@@ -1373,10 +1373,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[24 // OLD NEW PROSPERITY]]></title>
+            <title><![CDATA[23 // OLD NEW PROSPERITY]]></title>
             <link>https://mirrorsea.xyz/read/old-new-prosperity</link>
             <guid>https://mirrorsea.xyz/read/old-new-prosperity</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:24 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:23 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">What happens when we look away?</p>
 <p class="p1">Take as your focus a cloud in the distance, unknowably large and far away, and try to understand that you contain it. Know that large as the sky is, you are larger still; revel in the distance to your own horizon. Now take as your focus your hand, and try to understand it as a construct of sense and memory, a projection of mind on mind. Know the claustrophobic brush of reality, always indirect, always through this world-sheet. Now close your eyes and feel how these perturbations disappear. Ask: where does it all go? What happens to those wind-whips on the surface of our ponds? Are they simply gone as soon as we avert our gaze?</p>
@@ -1439,10 +1439,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[25 // DR. ZHANG PEIFENG]]></title>
+            <title><![CDATA[24 // DR. ZHANG PEIFENG]]></title>
             <link>https://mirrorsea.xyz/read/dr-zhang-peifeng</link>
             <guid>https://mirrorsea.xyz/read/dr-zhang-peifeng</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:25 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:24 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">In back is where it really gets miscellaneous. We pick our way through boxes crammed with feather boas, lewd and dusty DVDs, and all kinds of electronic refuse: <i>Optical-Rubidium Adapters (broken)</i>; <i>Phased array drivers (fixable)</i>; <i>USB cables (2.0). </i>Tethi leads me past storeroom after storeroom. One amounts to a kitchen, full of tabletop induction burners and cube fridges, fed by daisy-chained power strips. The last door on the right bleeds blue light and bass-heavy Ulanbataar prog-shag. He lets me inside what I take to be his room.</p>
 <p class="p1">“So she has you reading her mail? Is that it?”</p>
@@ -1478,10 +1478,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[26 // THE SEA AT NIGHT]]></title>
+            <title><![CDATA[25 // THE SEA AT NIGHT]]></title>
             <link>https://mirrorsea.xyz/read/the-sea-at-night</link>
             <guid>https://mirrorsea.xyz/read/the-sea-at-night</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:26 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:25 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">I can feel it, the weight of it, just behind the prickle of the last primer tiles. And I have maybe a second to reflect on what I thought would happen to me here. I assumed that tiling into the Mirror Sea would be like stepping into one of the displays, floating peacefully and serenely through its higher dimensions, easier than scuba diving. Instead, <i>this.</i> I thumb the allocator switch: a heady, crunchy thrum of glossy red-and-yellow tiles, my mind unfurling, more mind than I remember. Then a firehose of raw data hits me square in the plexus and just keeps coming. Sawtooth panic, grasping at the jetstream with chicken-claw-claws. Feeling trolleys, alley cats, garbage bins, hats, a million such snatches a second, adding up to nothing, lasting no time at all. I feel for the emergency shutdown…</p>
 <p class="p1"><i>You just need to do it yourself.</i></p>
@@ -1514,10 +1514,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[27 // KER-THOINK]]></title>
+            <title><![CDATA[26 // KER-THOINK]]></title>
             <link>https://mirrorsea.xyz/read/ker-thoink</link>
             <guid>https://mirrorsea.xyz/read/ker-thoink</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:27 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:26 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">“Let me see it,” I shout when I come down, flipping up the hood, ripping out the tube. “Let me —” It unfurls from fuzzy memory like loose yarn: the Ripple, the one Cai and I loved, is <i>alive</i>. And it took me...and I brought<span class="Apple-converted-space">  </span>—<span class="Apple-converted-space"> </span></p>
 <p class="p1">Two steps out of the scanner, nausea overtakes me. Tethi, bless him, is holding a bucket. And a while later, when I look a little better, he hands me a little bottle of water. “I’m sorry. Not to have warned you, primed you, whatever. But there’s nobody I can go to. You have no idea what a relief it is that you found it too.”</p>
@@ -1577,10 +1577,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[28 // HE NAMED IT AFTER HIMSELF]]></title>
+            <title><![CDATA[27 // HE NAMED IT AFTER HIMSELF]]></title>
             <link>https://mirrorsea.xyz/read/he-named-it-after-himself</link>
             <guid>https://mirrorsea.xyz/read/he-named-it-after-himself</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:28 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:27 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">“His name was Andre. My father. I — I should just talk about him? Okay, yes, so. Wait, shall I move another prism? Alright...here. Okay. My father. A story that they always liked to tell about him, was when he was a child, he was a real...there’s a very specific English phrase I can’t come up with here. A smart child. No, way more colloquial. Whiz kid. He was a whiz kid.</p>
 <p class="p1">“He came up in a little town outside Libreville. One of those kids who is always in a book. Wore glasses he didn’t need. Always wanted to be in corduroy, yeah, exactly, like this tiny professor. Only the funny thing is he would come to market and lean against a post all, all, all, erudite and shit, and he’d have like a comic book in his hand. I <i>know</i>. With the elbow patches on his jacket. But the thing is he was four, and he was already reading. And he grew into it.</p>
@@ -1603,10 +1603,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[29 // SCENES FROM TRIPLE POINT]]></title>
+            <title><![CDATA[28 // SCENES FROM TRIPLE POINT]]></title>
             <link>https://mirrorsea.xyz/read/scenes-from-triple-point</link>
             <guid>https://mirrorsea.xyz/read/scenes-from-triple-point</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:29 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 00:00:28 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Tethi talks about the Chalk in terms of tides. I already knew about the way it pulls people in — I’d heard less about the symmetrical way it pushes people out, sometimes just as violently, sometimes after taking years. I have to take him at his word that the triple points are the shallows: where you go in, where you come out. He says the locals from adjacent wards even come to their night market. You tend to imagine Chalkers living hand-to-mouth on stolen mangoes and penicillin. But you also hear of hospitals and riverbed submarines. Stories of the eerie effortlessness with which they feed and clothe the all-comers who fall through the cracks beneath the cracks. That takes money, which takes hustlers slumming it at the event horizon, like Tethi and Min.</p>
 <p class="p1">I find Triple Point even spookier in the daytime: the black tarps everywhere, the stale and humid air, the last of the cicadas. For all the abandoned businesses, there is motion on the fringes of everything. Chalkers have ways of being seen only in the periphery, in vague generalities, after the fact. Sometimes I’ll get inside Old New Prosperity before an accumulation of sights and sounds and smells crashes over me: the street had been bustling, practically thronged, with people. I try to stitch these impressions along their usual edges, to recall who or what I had seen out there. But they fit together in a different way than usual. They fit together along grooves made of coincidence and repetition and correlation and —</p>
@@ -1677,10 +1677,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[30 // WU KE NAI HE]]></title>
+            <title><![CDATA[29 // WU KE NAI HE]]></title>
             <link>https://mirrorsea.xyz/read/wu-ke-nai-he</link>
             <guid>https://mirrorsea.xyz/read/wu-ke-nai-he</guid>
-            <pubDate>Mon, 25 Sep 2023 00:00:30 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 00:00:29 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">“You gotta put the emphasis on the first syllable. Listen. <i>In</i>-tro-speeeecs!” Tethi cups his hands, and his voice carries over the crowd loosely milling around one of the unknowably many entrances to Wu Ke Nai He. This little segment of it, on the northeast corner of a sprawling twelve blocks, Baidu Maps still thinks is a warehouse full of vacuum parts.</p>
 <p class="p1">“No. C’mon. You sound like you’re selling hot dogs at a baseball game. In Mandarin, you gotta get a patter going. Take everything we have and string it all together, a little too fast.” Then, bringing my voice up into my nose: “Genzhe globes — Introspecs — Flower crowns — Quasi wands — Genzhe globes...” I rifle through our pushcart, layers of cheap plastic treasures pilfered from Min’s storeroom. “Christ, what else do we have in here?”</p>
@@ -1729,10 +1729,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[31 // A MAW TOO WIDE]]></title>
+            <title><![CDATA[30 // A MAW TOO WIDE]]></title>
             <link>https://mirrorsea.xyz/read/a-maw-too-wide</link>
             <guid>https://mirrorsea.xyz/read/a-maw-too-wide</guid>
-            <pubDate>Thu, 28 Sep 2023 00:00:31 GMT</pubDate>
+            <pubDate>Thu, 28 Sep 2023 00:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1"><span class="s1">The thick of the crowd gives me a choice: tendrils or elbows. I can just look <i>up</i> at the Ripples and lose myself completely. That’s what everyone’s here to do: Chalker, chaser, neikonaut. Flower crowns, quasi-wands, LED-glow sunflowers raised in saucer-eyed ecstasy. Or I can keep my eyes below meridian, focus on human bodies, on arms and butts and pheromones, looking at <i>you </i>and <i>you </i>and <i>you</i> and <i>sorry, excuse me</i>, pushing through a great collective trance, seeing the wave for its particles. It becomes apparent that there are so many goddamn rooms in this place. Warehouse-sized, closet-sized, the music interpolates seamlessly between all of them.<span class="Apple-converted-space">  </span>I measure out an upward glance: the Ripples jelly-pulse, whip-shimmer, spiral-bounce. And for all their blind jostling, their flashes of destructive interference, they move far more easily than we do. They brush by so fluidly, that it’s easy to believe that they’re leading the dance.</span></p>
 <p class="p1"><span class="s1">By and large, they’re moving in the same direction we are.</span></p>
@@ -1823,10 +1823,10 @@ YINS, YDOZ, China</p>
 </section>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[32 // HOW YOU REPAY ME]]></title>
+            <title><![CDATA[31 // HOW YOU REPAY ME]]></title>
             <link>https://mirrorsea.xyz/read/how-you-repay-me</link>
             <guid>https://mirrorsea.xyz/read/how-you-repay-me</guid>
-            <pubDate>Fri, 29 Sep 2023 00:00:32 GMT</pubDate>
+            <pubDate>Fri, 29 Sep 2023 00:00:31 GMT</pubDate>
             <content:encoded><![CDATA[<section>
 <p class="p1">Of course I should have expected Yao. Tethi and I get lots of badly-concealed glances when we step onto the Safety floor the next morning, but Yao’s the one to come greet me. Which makes me feel terrible.</p>
 <p class="p1">“You look terrible, Mona,” he tells me bluntly. “Everyone’s wondering where you’ve been.” And if he hates me, how could I blame him? I called in a four-oh-eight on him, got him sent to Medical, and then disappeared for an entire week to chase the very same strand of madness. I think he sees that, somehow. Sees it as a vindication, somehow. His head swivels past me now. “Wait, is that —?”</p>

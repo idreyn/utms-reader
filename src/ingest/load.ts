@@ -52,6 +52,6 @@ export const getChapterDetails = (
         current,
         next,
         previous,
-        number: 1 + index,
+        number: index,
     };
 };
