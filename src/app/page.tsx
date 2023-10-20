@@ -20,7 +20,7 @@ const info = (
             supercomputer, she performs calculations she can barely imagine
             sober. Most neikonauts return from their trips with theorems,
             reactor designs, or millions in parallel yuan. Mona is a clinician,
-            and she's just lucky to be here, never quite living up to the
+            and she's just lucky to be there, never quite living up to the
             expectations of her illustrious advisor, Dr. Deng. She mops up after
             everyone else's recklessness, tunneling into their minds and
             dredging out the digital debris that gets left behind.
