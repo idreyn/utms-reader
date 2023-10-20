@@ -6,13 +6,12 @@ import styles from "./page.module.css";
 const info = (
     <>
         <p>
-            <i>Upon the Mirror Sea</i> is longform science fiction.{" "}
-            <b>It is a work in progress</b>, to be completed in 2023. You can
-            follow{" "}
+            <i>Upon the Mirror Sea</i> is longform science fiction by{" "}
             <a href="https://twitter.com/phaseborn" target="_blank">
                 @phaseborn
-            </a>{" "}
-            on Twitter for updates.
+            </a>
+            . <b>It is a work in progress</b>. You can follow the{" "}
+            <a href="/rss.xml">RSS feed</a> for updates.
         </p>
         <p>
             Like everyone else at Shanghai's top university, Mona Xu is a
