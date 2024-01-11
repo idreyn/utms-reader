@@ -6,11 +6,8 @@ import styles from "./page.module.css";
 const info = (
     <>
         <p>
-            <i>Upon the Mirror Sea</i> is longform science fiction by{" "}
-            <a href="https://twitter.com/phaseborn" target="_blank">
-                @phaseborn
-            </a>
-            . <b>It is a work in progress</b>. You can follow the{" "}
+            <i>Upon the Mirror Sea</i> is longform science fiction.{" "}
+            <b>It is a work in progress</b>. You can follow the{" "}
             <a href="/rss.xml">RSS feed</a> for updates.
         </p>
         <p>

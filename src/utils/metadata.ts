@@ -13,6 +13,6 @@ export const bookMetadata: BookMetadata = {
     fullSentenceDescription,
     coverImage: "covers/displays.png",
     baseUrl: "https://mirrorsea.xyz",
-    license: "© 2023 by @phaseborn",
+    license: "© 2023",
     language: "en",
 };

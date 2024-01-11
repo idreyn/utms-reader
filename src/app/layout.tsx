@@ -29,11 +29,6 @@ export const metadata: Metadata = {
         images: [coverImage],
         description,
     },
-    twitter: {
-        title,
-        card: "summary_large_image",
-        creator: "@phaseborn",
-    },
 };
 
 export default function RootLayout(props: Props) {
