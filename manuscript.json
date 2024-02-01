@@ -1648,7 +1648,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "January 10, 2024 at 1:44 PM",
-                                "Modified": "January 22, 2024 at 9:09 AM",
+                                "Modified": "January 31, 2024 at 9:40 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1656,20 +1656,6 @@
                                 "incomplete": false
                             },
                             "title": "Face intro"
-                        },
-                        {
-                            "src": "manuscript/6 Diving-bell/1 A Better Angle/2 On the balcony again.html",
-                            "kind": "section",
-                            "metadata": {
-                                "Created": "January 20, 2024 at 1:36 PM",
-                                "Modified": "January 24, 2024 at 10:15 AM",
-                                "Status": "No Status",
-                                "Label": "No Label",
-                                "Keywords": "",
-                                "unpublished": false,
-                                "incomplete": false
-                            },
-                            "title": "On the balcony again"
                         }
                     ]
                 },
