@@ -1259,7 +1259,7 @@
                             "kind": "section",
                             "metadata": {
                                 "Created": "July 10, 2023 at 4:37 PM",
-                                "Modified": "September 19, 2023 at 10:14 AM",
+                                "Modified": "February 4, 2024 at 7:33 PM",
                                 "Status": "No Status",
                                 "Label": "No Label",
                                 "Keywords": "",
@@ -1878,6 +1878,68 @@
                                 "incomplete": false
                             },
                             "title": "Aftermath"
+                        }
+                    ]
+                },
+                {
+                    "src": "manuscript/6 Diving-bell/4 In The Other Hall of Eggs",
+                    "kind": "chapter",
+                    "title": "In The Other Hall of Eggs",
+                    "slug": "in-the-other-hall-of-eggs",
+                    "metadata": {
+                        "Created": "January 20, 2024 at 1:38 PM",
+                        "Modified": "February 14, 2024 at 4:26 PM",
+                        "Status": "No Status",
+                        "Label": "No Label",
+                        "Keywords": "",
+                        "unpublished": false,
+                        "incomplete": false,
+                        "publicationDate": "2024-02-14"
+                    },
+                    "publicationDate": "2024-02-14",
+                    "number": 35,
+                    "children": [
+                        {
+                            "src": "manuscript/6 Diving-bell/4 In The Other Hall of Eggs/1 Release recollection.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "December 20, 2023 at 3:36 PM",
+                                "Modified": "February 14, 2024 at 4:50 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Release recollection"
+                        },
+                        {
+                            "src": "manuscript/6 Diving-bell/4 In The Other Hall of Eggs/2 Veetle adventure.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 12, 2024 at 9:30 PM",
+                                "Modified": "February 14, 2024 at 4:17 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Veetle adventure"
+                        },
+                        {
+                            "src": "manuscript/6 Diving-bell/4 In The Other Hall of Eggs/3 How we lose.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 14, 2024 at 4:13 PM",
+                                "Modified": "February 14, 2024 at 4:49 PM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "How we lose"
                         }
                     ]
                 }
