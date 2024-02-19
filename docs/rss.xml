@@ -4,7 +4,7 @@
         <title>Upon the Mirror Sea</title>
         <link>https://mirrorsea.xyz</link>
         <description>A serialized science fiction novel about psychedelics, surveillance, and first contact with ourselves.</description>
-        <lastBuildDate>Mon, 19 Feb 2024 15:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 15:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2196,6 +2196,12 @@ Jinghan<br>
 <p class="p1">“Dr. Rui, what was she afraid of?”</p>
 <p class="p1">“Things happen in there first, now. As of quarter past five this morning, the Ripples have reversed causality between Shanghai and Epsilon City.” And I swear the relief on his face tells the whole story. Rui is <i>done.</i> The game the Weather Bureau has been playing for years is finally over, and reality is out of his hands. There’s something gleefully reverent in the way he starts calling up projections of the Mirror Sea. “So who wants to see what happens next?”</p>
 </section>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[36 // THE STRAGGLER]]></title>
+            <link>https://mirrorsea.xyz/read/the-straggler</link>
+            <guid>https://mirrorsea.xyz/read/the-straggler</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
