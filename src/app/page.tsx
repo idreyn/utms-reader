@@ -12,32 +12,35 @@ const info = (
         </p>
         <p>
             Like everyone else at Shanghai's top university, Mona Xu is a
-            neikonaut: mind soaked with psychedelics and intertwined with a
-            supercomputer, she performs calculations she can barely imagine
-            sober. Most neikonauts return from their trips with theorems,
-            reactor designs, or millions in parallel yuan. Mona is a clinician,
-            and she's just lucky to be there, never quite living up to the
-            expectations of her illustrious advisor, Dr. Deng. She mops up after
-            everyone else's recklessness, tunneling into their minds and
-            dredging out the digital debris that gets left behind.
+            neikonaut: mind soaked in psychedelics, intertwined with a a
+            supercomputer, she does things in there she can barely imagine
+            sober. She's also a clinician, helping other students deal with
+            dangerous mental debris that this process leaves behind. And she's
+            the student of the illustrious Dr. Deng — who insist she has a
+            bright future, if she can focus her thesis away from certain
+            attractive dead ends. She shouldn't be thinking about the Mirror Sea
+            at all. They gave her pills to take if she starts.
         </p>
         <p>
-            And once, Mona Xu was a Ripplechaser. Shanghai's billion anonymizing
-            CCTV cameras reveal the Mirror Sea: a strange, electrifying,
-            nocturnal dimension of self and city inhabited by primal creatures
-            called Ripples, their motion borrowed from our own. Like many
-            others, Mona has a hard time looking away — even after it triggers a
-            psychotic break. Dr. Deng begs her to move on, write a dissertation,
-            and graduate. But Mona is about to discover something in a patient's
-            mind that pushes her back to that boundary between reality and
-            delusion, observer and observed. Back to the Mirror Sea. The Ripples
-            have something they shouldn't, and Dr. Deng knows something she
-            won't say.
+            That's hard, when the Mirror Sea surrounds her. Shanghai has pried
+            open countless portholes into its own surveillance system, from tiny
+            LCDs to ten-story quasigrams, to watch the city's motion make the
+            Ripples. They're not really <i>alive</i>, of course. Not unless we
+            choose to see intention, intelligence, agency, in the way they move.
+            Not unless we give them life. The city's interest in chasing Ripples
+            is becoming an obsession. It made Mona do dangerous things, once,
+            and she'd prefer to forget all about it.
         </p>
         <p>
-            On the eve of crisis, against the wishes of her advisor, Mona must
-            guide a dangerous revelation safely into the world: when we are
-            together, <i>we are not alone</i>.
+            But she's about to find something in a patient's mind that pushes
+            her back to that boundary between reality and delusion, observer and
+            observed. Back to the Mirror Sea. Weaving between her drab clinical
+            daytime and nocturnal, electrifying dimensions of self and city,
+            she'll soon find herself at the dead center of a decades-long deceit
+            that once nearly ripped China apart. The Ripples have something they
+            shouldn't, Dr. Deng knows something she won't say, and Mona's
+            dead-end research might be the decisive weapon in a battle for
+            consciousness itself.
         </p>
     </>
 );
