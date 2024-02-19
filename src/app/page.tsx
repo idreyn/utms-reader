@@ -12,11 +12,11 @@ const info = (
         </p>
         <p>
             Like everyone else at Shanghai's top university, Mona Xu is a
-            neikonaut: mind soaked in psychedelics, intertwined with a a
+            neikonaut: mind soaked in psychedelics, intertwined with a
             supercomputer, she does things in there she can barely imagine
-            sober. She's also a clinician, helping other students deal with
+            sober. She's also a clinician, helping her patients deal with
             dangerous mental debris that this process leaves behind. And she's
-            the student of the illustrious Dr. Deng — who insist she has a
+            the student of the illustrious Dr. Deng — who insists she has a
             bright future, if she can focus her thesis away from certain
             attractive dead ends. She shouldn't be thinking about the Mirror Sea
             at all. They gave her pills to take if she starts.
@@ -29,7 +29,7 @@ const info = (
             choose to see intention, intelligence, agency, in the way they move.
             Not unless we give them life. The city's interest in chasing Ripples
             is becoming an obsession. It made Mona do dangerous things, once,
-            and she'd prefer to forget all about it.
+            and she'd prefer to forget that.
         </p>
         <p>
             But she's about to find something in a patient's mind that pushes
