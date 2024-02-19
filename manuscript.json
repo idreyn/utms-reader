@@ -1962,7 +1962,22 @@
                     },
                     "publicationDate": "2024-02-19",
                     "number": 36,
-                    "children": []
+                    "children": [
+                        {
+                            "src": "manuscript/6 Diving-bell/5 The Straggler/1 Rui's offer.html",
+                            "kind": "section",
+                            "metadata": {
+                                "Created": "February 16, 2024 at 6:47 PM",
+                                "Modified": "February 19, 2024 at 10:54 AM",
+                                "Status": "No Status",
+                                "Label": "No Label",
+                                "Keywords": "",
+                                "unpublished": false,
+                                "incomplete": false
+                            },
+                            "title": "Rui's offer"
+                        }
+                    ]
                 }
             ]
         }
